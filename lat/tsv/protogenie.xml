@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<config>
+    <output column_marker="TAB">
+        <header name="order">
+            <key>token</key>
+            <key>normalised</key>
+        </header>
+    </output>
+    <default-header>
+        <header type="explicit">
+            <key map-to="token">token</key>
+            <key map-to="normalised">normalised</key>
+        </header>
+    </default-header>
+<!--    <postprocessing>
+    </postprocessing>-->
+    <corpora>
+        <corpus path="oriflamms/*.tsv" column_marker="TAB">
+            <header type="default" />
+            <splitter name="token_window" window="25"></splitter><!-- BAD, but we need one… -->
+        </corpus>
+        <corpus path="btv1b9080806r_abbr_MVernet/*.tsv" column_marker="TAB">
+            <header type="default" />
+            <splitter name="token_window" window="25"></splitter>
+        </corpus>
+    </corpora>
+    <memory path="./lat_normalisation"/>
+</config>
