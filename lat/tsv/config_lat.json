@@ -1,12 +1,13 @@
 {
    "modelname":"lat_expan",
    "modelpath":"./",
-   "input_path":"./output/train/*.csv",
-   "test_path":"./output/test/*.csv",
-   "dev_path":"./output/dev/*.csv",
-   "breakline_ref":"form",
+   "input_path":"/data/word_normalisation_data/lat/tsv/output/train/*.tsv",
+   "test_path":"/data/word_normalisation_data/lat/tsv/output/test/*.tsv",
+   "dev_path":"/data/word_normalisation_data/lat/tsv/output/dev/*.tsv",
+   "breakline_ref":"",
    "word_max_size":50000,
    "max_sent_len":35,
+   "tasks_order": ["normalised"],
    "tasks":[
       {
          "name":"normalised",
@@ -17,13 +18,13 @@
          "settings":{
             "bos":true,
             "eos":true,
-            "lower":true,
-            "target":"form"
+            "lower":false,
+            "target":"normalised"
          },
          "layer":-1
       }
    ],
-   "include_lm":true,
+   "include_lm":false,
    "lm_shared_softmax":true,
    "lm_schedule":{
       "patience":2,
@@ -57,7 +58,7 @@
    "word_min_freq":1,
    "char_eos":true,
    "char_bos":true,
-   "sep":",",
+   "sep":"\t",
    "header":true,
    "task_defaults":{
       "level":"token",
