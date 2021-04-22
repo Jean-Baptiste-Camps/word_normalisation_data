@@ -7,8 +7,6 @@
    "breakline_ref":"",
    "word_max_size":50000,
    "max_sent_len":35,
-   "utfnorm": true, // whether to apply unicode normalization
-   "utfnorm_type": "NFD", // default type for unicode normalization
    "tasks_order": ["normalised"],
    "tasks":[
       {
