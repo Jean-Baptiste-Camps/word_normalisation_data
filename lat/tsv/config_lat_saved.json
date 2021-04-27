@@ -7,14 +7,12 @@
    "breakline_ref":"",
    "word_max_size":50000,
    "max_sent_len":35,
-   "utfnorm": true, // whether to apply unicode normalization
-   "utfnorm_type": "NFD", // default type for unicode normalization
    "tasks_order": ["normalised"],
    "tasks":[
       {
          "name":"normalised",
          "target":true,
-         "context":"sentence",
+         "context":"word",
          "level":"char",
          "decoder":"attentional",
          "settings":{
@@ -26,7 +24,7 @@
          "layer":-1
       }
    ],
-   "include_lm":true,
+   "include_lm":false,
    "lm_shared_softmax":true,
    "lm_schedule":{
       "patience":2,
