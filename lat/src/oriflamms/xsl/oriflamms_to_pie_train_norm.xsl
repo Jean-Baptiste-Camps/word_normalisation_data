@@ -41,8 +41,8 @@
     
     
     <xsl:template match="text()" mode="#all">
-        <!--<xsl:value-of select="normalize-unicode(normalize-space(.), 'nfd')"/>-->
-        <xsl:value-of select="normalize-space(.)"/>
+        <xsl:value-of select="translate(translate(translate(translate(normalize-unicode(normalize-space(.), 'nfc'), ' ',''), 'ſ', 's'), 'δ', 'd'),'ꝛ', 'r')"/>
+        <!--<xsl:value-of select="normalize-space(.)"/>-->
     </xsl:template>
     
     
