@@ -29,7 +29,7 @@
         <xsl:apply-templates select="$tagPunctuation" mode="handlePunctuation"/>
     </xsl:template>
 
-    <xsl:template match="text()[parent::tei:l or parent::tei:p]" mode="addAnchors">
+    <xsl:template match="text()[parent::tei:l or parent::tei:p or parent::tei:head]" mode="addAnchors">
         <xsl:analyze-string select="." regex="(\s+|&apos;|‘)">
             <xsl:matching-substring>
                 <xsl:choose>
@@ -51,10 +51,10 @@
         </xsl:analyze-string>
     </xsl:template>
 
-    <xsl:template match="tei:l | tei:p" mode="tokenize">
+    <xsl:template match="tei:l | tei:p | tei:head" mode="tokenize">
         <xsl:copy>
             <xsl:apply-templates select="attribute::*"/>
-            <xsl:attribute name="n"><xsl:number count="tei:l | tei:p" from="tei:text" level="any"/></xsl:attribute>
+            <xsl:attribute name="n"><xsl:number count="tei:l | tei:p | tei:head" from="tei:text" level="any"/></xsl:attribute>
             <xsl:apply-templates select="descendant::tei:anchor" mode="tokenize"/>
             <!-- DEBUG: il n'y a aucune ancre, ou le mot ne fait qu'une ligne -->
             <xsl:if test="not(descendant::tei:anchor)">
@@ -82,7 +82,7 @@
                 </xsl:if>
             </xsl:when>
             <xsl:when
-                test="not(preceding-sibling::tei:anchor[@type = 'wordBoundary']) and (parent::tei:l or parent::tei:p)">
+                test="not(preceding-sibling::tei:anchor[@type = 'wordBoundary']) and (parent::tei:l or parent::tei:p or parent::tei:head)">
                 <w>
                     <xsl:apply-templates 
                         select="preceding-sibling::node()" 
@@ -95,7 +95,7 @@
             </xsl:otherwise>
         </xsl:choose>
         <!-- Et les derniers mots de la ligne -->
-        <xsl:if test="not(following-sibling::tei:anchor[@type = 'wordBoundary']) and (parent::tei:l or parent::tei:p)">
+        <xsl:if test="not(following-sibling::tei:anchor[@type = 'wordBoundary']) and (parent::tei:l or parent::tei:p or parent::tei:head)">
             <w>
                 <xsl:apply-templates 
                     select="following-sibling::node()" 

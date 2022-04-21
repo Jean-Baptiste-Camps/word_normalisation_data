@@ -33,7 +33,7 @@
         tei:addName | tei:roleName | tei:geogName | tei:name | tei:surname |
         tei:hi | tei:soCalled |
         tei:quote | tei:title | tei:num | tei:foreign | tei:q | tei:damage
-        | tei:surplus | tei:g
+        | tei:surplus | tei:g | tei:said
         ">
         <xsl:apply-templates/>
     </xsl:template>
