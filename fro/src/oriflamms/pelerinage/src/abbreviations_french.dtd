@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY con-tironien-cun "<choice><expan>cun</expan><abbr><am>&#xA76F;</am></abbr></choice>">
+<!ENTITY con-tironien-on "<choice><expan>on</expan><abbr><am>&#xA76F;</am></abbr></choice>">
+<!ENTITY com-tironien-e-suscrit-comme "<choice><expan>com<ex>mm</ex>e</expan><abbr><am>&#xA76F;</am><am>&#x0364;</am></abbr></choice>">
+<!ENTITY x-i-suscrit-Chresti "<choice><expan>Ch<ex>rest</ex>i</expan><abbr>x<am>&#x0365;</am></abbr></choice>">
+<!ENTITY x-i-suscrit-chresti "<choice><expan>ch<ex>rest</ex>i</expan><abbr>x<am>&#x0365;</am></abbr></choice>">
+<!ENTITY s-barré-selle "<choice><expan>s<ex>elle</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY p-barré-pour "<choice><expan>p<ex>our</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY appt-barré-appartenant "<choice><expan>app<ex>ar</ex>t<ex>enant</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY a-suscrit-u-apostrophe-a "<choice><expan><ex>u&apos;</ex>a</expan><abbr><am>&#x0363;</am></abbr></choice>">
+<!ENTITY s-barré-sieu "<choice><expan>s<ex>ieu</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY s-barré-sieur "<choice><expan>s<ex>ieur</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY s-barré-ser "<choice><expan>s<ex>er</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY s-barré-sus "<choice><expan>s<ex>us</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY s-barré-son "<choice><expan>s<ex>on</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY ous-base "<choice><expan>ous</expan><abbr><am>&#xF1A6;</am></abbr></choice>">
+<!ENTITY os-base "<choice><expan>os</expan><abbr><am>&#xF1A6;</am></abbr></choice>">
+<!ENTITY susp-tilde-it "<choice><expan><ex>it</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY susp-tilde-oir "<choice><expan><ex>oir</ex></expan> <abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY susp-tilde-oire "<choice><expan><ex>oire</ex></expan> <abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY susp-tilde-ustin "<choice><expan><ex>ustin</ex></expan> <abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY s-t-suscrit-saint "<choice><expan>s<ex>ain</ex>t</expan><abbr><am>&#x036D;</am></abbr></choice>">
+<!ENTITY ass-signe-double-assavoir "<choice><expan>ass<ex>avoir</ex></expan><abbr>ass<am>&#xF1AC;</am></abbr></choice>">
+
+<!-- entités Légende dorée FC -->
+<!ENTITY Mir-rond-barré-Miracle "<choice><expan>r<ex>acle</ex></expan><abbr>&#xA75D;</abbr></choice>">
+<!ENTITY dispo-tilde-disposition "<choice><expan>dispo<ex>sition</ex></expan><abbr>dispo<am>&#x0303;</am></abbr></choice>">
+<!ENTITY s-barré-seigneur "<choice><expan>s<ex>eigneur</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY p-min-h-tilde-Philipp "<choice><expan><g ana='ori:dipl-small'>P</g>h<ex>ilipp</ex></expan><abbr>ph<am>&#x0303;</am></abbr></choice>">
+<!ENTITY p-min-barré-Pro "<choice><expan><g ana='ori:dipl-small'>P</g><ex>ro</ex></expan><abbr><am>&#xA752;</am></abbr></choice>">
+<!ENTITY s-barré-sire "<choice><expan>s<ex>ire</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY s-barré-r-suscrit-sire "<choice><expan>s<ex>ire</ex></expan><abbr><am>&#x1E9C;&#x036C;</am></abbr></choice>">
+<!ENTITY s-barré-sair "<choice><expan>s<ex>air</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY Jhu-tilde-Jhesu "<choice><expan>J<ex>hesu</ex></expan><abbr>Jhu<am>&#x0303;</am></abbr></choice>">
+<!ENTITY jhu-min-tilde-Jhesu "<choice><expan><g ana='ori:dipl-small'>J</g><ex>hesu</ex></expan><abbr>Jhu<am>&#x0303;</am></abbr></choice>">
+<!ENTITY p-min-barré-Par "<choice><expan><g ana='ori:dipl-small'>P</g><ex>ar</ex></expan><abbr><am>&#xA751;</am></abbr></choice>">
+<!ENTITY pp-barré-prepar "<choice><expan>p<ex>re</ex>p<ex>ar</ex></expan><abbr><am>&#xA751;</am><am>&#xA751;</am></abbr></choice>">
+<!ENTITY m-e-suscrit-Marie "<choice><expan>m<ex>ari</ex>e</expan><abbr>m<am>&#x0364;</am></abbr></choice>">
+<!ENTITY scd-tilde-second "<choice><expan>s<ex>e</ex>c<ex>on</ex>d</expan><abbr>scd<am>&#x0303;</am></abbr></choice>">
+<!ENTITY pp-barré-tilde-perpet "<choice><expan>p<ex>er</ex>p<ex>et</ex></expan><abbr><am>&#xA751;</am><am>&#xA751;</am><am>&#x0303;</am></abbr></choice>">
+<!ENTITY s-barré-sance "<choice><expan>s<ex>ance</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY s-barré-suit "<choice><expan>s<ex>uit</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY s-barré-suivant "<choice><expan>s<ex>uivant</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY roy-me-suscrit-royaume "<choice><expan>roy<ex>au</ex>me</expan><abbr><am>&#x036B;</am><am>0364</am></abbr></choice>">
+<!ENTITY est-signe-simple-estoit "<choice><expan>est<ex>oit</ex></expan><abbr><am>&#x002E;</am></abbr></choice>">
+<!ENTITY dni-tilde-Domini "<choice><expan><g ana='ori:dipl-small'>D</g><ex>omi</ex>ni</expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY s-barré-sant "<choice><expan>s<ex>ant</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY susp-signe-double-ent "<choice><expan><ex>ent</ex></expan><abbr><am>&#xF1AC;</am></abbr></choice>">
+<!ENTITY Jhm-tilde-Jerusalem "<choice><expan>J<ex>erusale</ex>m</expan><abbr>Jh<am>&#x0303;</am>m</abbr></choice>">
+<!ENTITY susp-signe-simple-ion "<choice><expan><ex>ion</ex></expan><abbr><am>&#x002E;</am></abbr></choice>">
+<!ENTITY ra-signe-simple-Ravennas "<choice><expan>Ra<ex>vennas</ex></expan><abbr><am>&#x002E;</am></abbr></choice>">
+<!ENTITY Eph-tilde-vertical-Ephesiens "<choice><expan>Eph<ex>esiens</ex></expan><abbr><am>&#x033E;</am></abbr></choice>">
+<!ENTITY susp-tilde-vertical-enses "<choice><expan><ex>enses</ex></expan><abbr><am>&#x033E;</am></abbr></choice>">
+<!ENTITY st-tilde-sont "<choice><expan>s<ex>on</ex>t</expan><abbr>s<am>&#x0303;</am>t</abbr></choice>">
+<!ENTITY Hebr-tilde-vertical-Hebreux "<choice><expan>Hebr<ex>eux</ex></expan><abbr><am>&#x033E;</am></abbr></choice>">
+<!ENTITY Ambr-signe-simple-Ambroise "<choice><expan>Ambr<ex>oise</ex></expan><abbr><am>&#x002E;</am></abbr></choice>">
+<!ENTITY on-suscrit-cion "<choice><expan><ex>ci</ex>on</expan><abbr><am>&#x0366;</am></abbr></choice>">
+<!ENTITY st-tilde-saint "<choice><expan>st<ex>ain</ex>t</expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY St-tilde-Saint "<choice><expan>St<ex>ain</ex>t</expan><abbr><am>&#x0303;</am></abbr></choice>">
+
+
+
+<!-- entités Pèlerinage vie humaine FC -->
+<!ENTITY g-tilde-vertical-grant "<choice><expan>g<ex>rant</ex></expan><abbr>g<am>&#x035B;</am></abbr></choice>">
+<!ENTITY tilde-ie "<choice><expan><ex>ie</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY q-a-suscrit-quar "<choice><expan>q<ex>u</ex>a<ex>r</ex></expan><abbr>q<am>&#x0363;</am></abbr></choice>">
+<!ENTITY q-barré-a-suscrit-quant "<choice><expan>q<ex>u</ex>a<ex>nt</ex></expan><abbr><am>&#xA759;</am><am>&#x0363;</am></abbr></choice>">
+<!ENTITY tilde-sp-us-uis "<choice><expan><ex>uis</ex></expan><abbr><am>&#x1DD2;</am></abbr></choice>">
+<!ENTITY f-tilde-e-faire "<choice><expan>b<ex>air</ex>e</expan><abbr>bn<am>&#x0303;</am></abbr></choice>">
+<!ENTITY tilde-vertical-rier "<choice><expan><ex>rier</ex></expan><abbr><am>&#x035B;</am></abbr></choice>">
+
+
+<!-- entités CMD, mss français, XIIIe siècle -->
+<!ENTITY p-tilde-pro "<choice><expan>p<ex>ro</ex></expan><abbr>p<am>&#x0303;</am></abbr></choice>">
+<!ENTITY G-signe-simple-Gavain "<choice><expan>G<ex>avain</ex></expan><abbr>G<am>&#x002E;</am></abbr></choice>">
+<!ENTITY Et-tironien "<choice><expan>Et</expan><abbr><am>&#x204A;</am></abbr></choice>">
+<!ENTITY Et-tironien-barré "<choice><expan>Et</expan><abbr><am>&#xF1A7;</am></abbr></choice>">
+<!ENTITY q-tilde-qu-apostrophe-e "<choice><expan>q<ex>u'e</ex></expan><abbr>q<am>&#x0303;</am></abbr></choice>">
+<!ENTITY ihu-min-tilde-Jhesu "<choice><expan><g ana='ori:dipl-small'>J</g>h<ex>es</ex>u</expan><abbr>Jhu<am>&#x0303;</am></abbr></choice>">
+<!ENTITY dns-min-tilde-Dominus "<choice><expan><g ana='ori:dipl-small'>D</g><ex>omi</ex>n<ex>u</ex>s</expan><abbr>Dns<am>&#x0303;</am></abbr></choice>">
+<!ENTITY dd-min-tilde-vertical-David "<choice><expan><g ana='ori:dipl-small'>D</g><ex>avi</ex>d</expan><abbr>D<am>&#x033E;</am>d</abbr></choice>">
+<!ENTITY b-barré-ber "<choice><expan>b<ex>er</ex></expan><abbr><am>&#xE44D;</am></abbr></choice>">
+<!ENTITY b-barré-Ber "<choice><expan><g ana='ori:dipl-small'>B</g><ex>er</ex></expan><abbr><am>&#xE44D;</am></abbr></choice>">
+<!ENTITY franc-min-tilde-Francois "<choice><expan><g ana='ori:dipl-small'>F</g>ranc<ex>ois</ex></expan><abbr>Franc<am>&#x0303;</am></abbr></choice>">
+<!ENTITY klme-tilde-Karlemanne "<choice><expan><g ana='ori:dipl-small'>K</g><ex>ar</ex>l<ex>e</ex>m<ex>ann</ex>e</expan><abbr>Klme<am>&#x0303;</am></abbr></choice>">
+<!ENTITY em-p-barré-emperere "<choice><expan>emp<ex>erere</ex></expan><abbr>em<am>&#xA751;</am></abbr></choice>">
+<!ENTITY chl-tilde-r-chevaler "<choice><expan>ch<ex>eva</ex>l<ex>e</ex>r</expan><abbr>chl<am>&#x0303;</am>r</abbr></choice>">
+<!ENTITY ph-tilde-oph-philosoph "<choice><expan>ph<ex>ilos</ex>oph</expan><abbr>ph<am>&#x0303;</am>oph</abbr></choice>">
+<!ENTITY ph-tilde-oph-Philosoph "<choice><expan><g ana='ori:dipl-small'>P</g>h<ex>ilos</ex>oph</expan><abbr>ph<am>&#x0303;</am>oph</abbr></choice>">
+<!ENTITY m-e-suscrit-maistre "<choice><expan>m<ex>aistr</ex>e</expan><abbr>m<am>&#x0364;</am></abbr></choice>">
+<!ENTITY h-tilde-hal "<choice><expan>h<ex>al</ex></expan><abbr>h<am>&#x0303;</am></abbr></choice>">
+<!ENTITY tilde-sp-us-ous "<choice><expan><ex>ous</ex></expan><abbr><am>&#x1DD2;</am></abbr></choice>">
+<!ENTITY tilde-sp-us-os "<choice><expan><ex>os</ex></expan><abbr><am>&#x1DD2;</am></abbr></choice>">
+<!ENTITY klm-tilde-Karlemaine "<choice><expan><g ana='ori:dipl-small'>K</g><ex>ar</ex>l<ex>e</ex>m<ex>aine</ex></expan><abbr>Klm<am>&#x0303;</am></abbr></choice>">
+<!ENTITY lans-tilde-Lanselot "<choice><expan><g ana='ori:dipl-small'>L</g>ans<ex>elot</ex></expan><abbr>lans<am>&#x0303;</am></abbr></choice>">
+<!ENTITY susp-tilde-nour "<choice><expan><ex>nour</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY qr-tilde-quar "<choice><expan>q<ex>ua</ex>r</expan><abbr>qr<am>&#x0303;</am></abbr></choice>">
+<!ENTITY nr-min-tilde-Nostr "<choice><expan><g ana='ori:dipl-small'>N</g><ex>ost</ex>r</expan><abbr>Nr<am>&#x0303;</am></abbr></choice>">
+<!ENTITY gen-min-tilde-Genesis "<choice><expan><g ana='ori:dipl-small'>G</g>en<ex>esis</ex></expan><abbr>Gen<am>&#x0303;</am></abbr></choice>">
+<!ENTITY ih-min-tilde-Jhesu "<choice><expan><g ana='ori:dipl-small'>J</g>h<ex>esu</ex></expan><abbr>Jh<am>&#x0303;</am></abbr></choice>">
+<!ENTITY ch-tilde-r-chevalier "<choice><expan>ch<ex>evalie</ex>r</expan><abbr>ch<am>&#x0303;</am>r</abbr></choice>">
+<!ENTITY ml-tilde-t-mout "<choice><expan>m<ex>ou</ex>t</expan><abbr>ml<am>&#x0303;</am>t</abbr></choice>">
+<!ENTITY a-suscrit-an "<choice><expan>a<ex>n</ex></expan><abbr><am>&#x0363;</am></abbr></choice>">
+<!ENTITY ps-tilde-Psalmus "<choice><expan><g ana='ori:dipl-small'>P</g>s<ex>almus</ex></expan><abbr>ps<am>&#x0303;</am></abbr></choice>">
+<!ENTITY s-barré-Sire "<choice><expan><g ana='ori:dipl-small'>S</g><ex>ire</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY s-barré-ses "<choice><expan>s<ex>es</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY s-barré-Seigneur "<choice><expan><g ana='ori:dipl-small'>S</g><ex>eigneur</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY omps-tilde-omnipotens "<choice><expan>om<ex>ni</ex>p<ex>oten</ex>s</expan><abbr>omp<am>&#x0303;</am>s</abbr></choice>">
+<!ENTITY lib-tilde-livres "<choice><expan>liv<ex>res</ex></expan><abbr>lib<am>&#x0303;</am></abbr></choice>">
+<!ENTITY q-tilde-qu-apostrophe "<choice><expan>q<ex>u'</ex></expan><abbr>q<am>&#x0303;</am></abbr></choice>">
+<!ENTITY tilde-sp-ur-r "<choice><expan><ex>r</ex></expan><abbr><am>&#x1DD1;</am></abbr></choice>">
+<!ENTITY chap-tilde-chapitre "<choice><expan>chap<ex>itre</ex></expan><abbr>chap<am>&#x0303;</am></abbr></choice>">
+
+
+
+
+<!-- lettres suscrites -->
+<!ENTITY r-suscrit-ur "<choice><expan><ex>u</ex>r</expan><abbr><am>&#x036C;</am></abbr></choice>">
+<!ENTITY i-suscrit-u-apostrophe-i "<choice><expan><ex>u'</ex>i</expan><abbr><am>&#x0365;</am></abbr></choice>">
+<!ENTITY i-suscrit-ier "<choice><expan><ex>ier</ex></expan><abbr><am>&#x036C;</am></abbr></choice>">
+
+<!-- lettres ramistes -->
+<!ENTITY i-dipl-j-norm "<choice><reg>j</reg><orig>i</orig></choice>">
+<!ENTITY j-dipl-i-norm "<choice><reg>i</reg><orig>j</orig></choice>">
+<!ENTITY u-dipl-v-norm "<choice><reg>v</reg><orig>u</orig></choice>">
+<!ENTITY v-dipl-u-norm "<choice><reg>u</reg><orig>v</orig></choice>">
+
+
+<!-- TILDE -->
+<!ENTITY fc-tilde-faict "<choice><expan>f<ex>ai</ex>c<ex>t</ex></expan><abbr>fc<am>&#x0303;</am></abbr></choice>">
+<!ENTITY bn-tilde-bien "<choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>&#x0303;</am></abbr></choice>">
+<!ENTITY cae-tilde-cause "<choice><expan>ca<ex>us</ex>e</expan><abbr>ca<am>&#x0303;</am>e</abbr></choice>">
+<!ENTITY vr-tilde-vostr "<choice><expan>v<ex>ost</ex>r</expan><abbr>vr<am>&#x0303;</am></abbr></choice>">
+<!ENTITY ch-tilde-un-chascun "<choice><expan>ch<ex>asc</ex>un</expan><abbr>ch<am>&#x0303;</am>un</abbr></choice>">
+<!ENTITY ch-tilde-ue-chascune "<choice><expan>ch<ex>asc</ex>u<ex>n</ex></expan><abbr>ch<am>&#x0303;</am>ue</abbr></choice>">
+<!ENTITY pb-tilde-re-prestre "<choice><expan>p<ex>rest</ex>re</expan><abbr>pb<am>&#x0303;</am>e</abbr></choice>">
+<!ENTITY chap-tilde-chapitre "<choice><expan>chap<ex>itre</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY ch-tilde-r-chevalier "<choice><expan>ch<ex>evalie</ex>r</expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY mlt-tilde-molt "<choice><expan>m<ex>o</ex>lt</expan><abbr>ml<am>&#x0303;</am>t</abbr></choice>">
+<!ENTITY mlt-tilde-moult "<choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>&#x0303;</am>t</abbr></choice>">
+<!ENTITY tilde-sp-ur-eur "<choice><expan><ex>eur</ex></expan><abbr><am>&#x1DD1;</am></abbr></choice>">
+<!ENTITY tilde-sp-ur-or "<choice><expan><ex>or</ex></expan><abbr><am>&#x1DD1;</am></abbr></choice>">
+<!ENTITY tilde-sp-ur-our "<choice><expan><ex>our</ex></expan><abbr><am>&#x1DD1;</am></abbr></choice>">
+<!ENTITY tilde-sp-ur-neur "<choice><expan><ex>neur</ex></expan><abbr><am>&#x1DD1;</am></abbr></choice>">
+<!ENTITY s-min-tilde-saint "<choice><expan>s<ex>aint</ex></expan><abbr>s<am>&#x0303;</am></abbr></choice>">
+<!ENTITY S-maj-tilde-Saint "<choice><expan>S<ex>aint</ex></expan><abbr>S<am>&#x0303;</am></abbr></choice>">
+<!ENTITY s-tilde-sainz "<choice><expan>s<ex>ainz</ex></expan><abbr>s<am>&#x0303;</am></abbr></choice>">
+<!ENTITY tilde-ain "<choice><expan><ex>ain</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY tilde-uan "<choice><expan><ex>uan</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY tilde-oin "<choice><expan><ex>oin</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY tilde-ignon "<choice><expan><ex>ignon</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY tilde-elin "<choice><expan><ex>elin</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY tilde-ett "<choice><expan><ex>ett</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY tilde-vertical-eris "<choice><expan><ex>eris</ex></expan><abbr><am>&#x035B;</am></abbr></choice>">
+<!ENTITY tilde-vertical-es "<choice><expan><ex>es</ex></expan><abbr><am>&#x035B;</am></abbr></choice>">
+<!ENTITY xp-tilde-chrest "<choice><expan>chr<ex>est</ex></expan><abbr>xp<am>&#x0303;</am></abbr></choice>">
+<!ENTITY Q-tilde-Que "<choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>&#x0303;</am></abbr></choice>">
+<!ENTITY ih-tilde-ihes "<choice><expan>i<ex>hes</ex></expan><abbr>ih<am>&#x0303;</am></abbr></choice>">
+<!ENTITY jh-tilde-ies "<choice><expan>i<ex>es</ex></expan><abbr>jh<am>&#x0303;</am></abbr></choice>">
+<!ENTITY Jh-tilde-ies "<choice><expan>i<ex>hes</ex></expan><abbr>Jh<am>&#x0303;</am></abbr></choice>">
+<!ENTITY Ih-tilde-ies "<choice><expan>i<ex>hes</ex></expan><abbr>Ih<am>&#x0303;</am></abbr></choice>">
+<!ENTITY ih-tilde-ihesu "<choice><expan>i<ex>hesu</ex></expan><abbr>ih<am>&#x0303;</am></abbr></choice>">
+
+<!ENTITY qnt-tilde-quant "<choice><expan>q<ex>ua</ex>n<ex>t</ex></expan><abbr>qnt<am>&#x0315;</am></abbr></choice>">
+<!ENTITY Qnt-tilde-Quant "<choice><expan>Q<ex>ua</ex>n<ex>t</ex></expan><abbr>Qnt<am>&#x0315;</am></abbr></choice>">
+<!ENTITY gnt-tilde-grant "<choice><expan>g<ex>ra</ex>n<ex>t</ex></expan><abbr>gnt<am>&#x0315;</am></abbr></choice>">
+<!ENTITY gns-tilde-grans "<choice><expan>g<ex>ra</ex>n<ex>s</ex></expan><abbr>gnt<am>&#x0315;</am></abbr></choice>">
+<!ENTITY Gnt-tilde-Grant "<choice><expan>G<ex>ra</ex>n<ex>t</ex></expan><abbr>Gnt<am>&#x0315;</am></abbr></choice>">
+<!ENTITY C-tilde-Crist "<choice><expan>C<ex>rist</ex></expan><abbr>C<am>&#x0303;</am></abbr></choice>">
+
+
+
+<!-- ABREVIATIONS PAR SEBASTIEN -->
+<!ENTITY Mich-tilde-Michel "<choice><expan>Mich<ex>el</ex></expan><abbr>Mich<am>&#x0303;</am></abbr></choice>">
+<!ENTITY Ph-tilde-Philippes "<choice><expan>Ph<ex>ilippes</ex></expan><abbr>Ph<am>&#x0303;</am></abbr></choice>">
+<!ENTITY thoul-tilde-thoulouse "<choice><expan>thoul<ex>ouse</ex></expan><abbr>thoul<am>&#x0303;</am></abbr></choice>">
+<!ENTITY susp-tilde-sion "<choice><expan><ex>sion</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY q-tilde-quel "<choice><expan>q<ex>uel</ex></expan><abbr>q<am>&#x0303;</am></abbr></choice>">
+<!ENTITY h-tilde-har "<choice><expan>h<ex>ar</ex></expan><abbr>h<am>&#x0303;</am></abbr></choice>">
+<!ENTITY susp-tilde-es "<choice><expan>r<ex>es</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY p-o-suscrit-pour "<choice><expan>p<ex>o</ex>ur</expan><abbr>p<am>&#x0366;</am></abbr></choice>">
+<!ENTITY magd-tilde-magdelaine "<choice><expan>Magd<ex>elaine</ex></expan><abbr>magd<am>&#x0303;</am></abbr></choice>">
+<!ENTITY vic-tilde-vincennes "<choice><expan>vic<ex>ennes</ex></expan><abbr>Vic<am>&#x0303;</am></abbr></choice>">
+<!ENTITY vendr-tilde-vendredi "<choice><expan>vendr<ex>edi</ex></expan><abbr>vendr<am>&#x0303;</am></abbr></choice>">
+<!ENTITY Guill-tilde-e-Guillaume "<choice><expan>Guill<ex>aum</ex>e</expan><abbr>Guill<am>&#x0303;</am>e</abbr></choice>">
+<!ENTITY ch-tilde-r-chevalier "<choice><expan>ch<ex>evalie</ex>r</expan><abbr>ch<am>&#x0303;</am>r</abbr></choice>">
+<!ENTITY susp-tilde-aucie "<choice><expan><ex>aucies</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY susp-tilde-able "<choice><expan><ex>able</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY susp-tilde-eschauz "<choice><expan><ex>eschauz</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY lr-tilde-lettr "<choice><expan>l<ex>ett</ex>r</expan><abbr>lr<am>&#x0303;</am></abbr></choice>">
+<!ENTITY sen-tilde-seneschal "<choice><expan>sen<ex>eschal</ex></expan><abbr>sen<am>&#x0303;</am></abbr></choice>">
+<!ENTITY lb-tilde-livres "<choice><expan>l<ex>ivres</ex></expan><abbr>lb<am>&#x0303;</am></abbr></choice>">
+<!ENTITY lbr-tilde-livres "<choice><expan>l<ex>ivres</ex></expan><abbr>lbr<am>&#x0303;</am></abbr></choice>">
+<!ENTITY d-tilde-deniers "<choice><expan>d<ex>eniers</ex></expan><abbr>d<am>&#x0303;</am></abbr></choice>">
+<!ENTITY it-tilde-item "<choice><expan>it<ex>em</ex></expan><abbr>it<am>&#x0303;</am></abbr></choice>">
+<!ENTITY mons-signe-simple-monseigneur "<choice><expan>mons<ex>eigneur</ex></expan><abbr>mons<am>&#x002E;</am></abbr></choice>">
+<!ENTITY s-tilde-sols "<choice><expan>s<ex>ols</ex></expan><abbr>s<am>&#x0303;</am></abbr></choice>">
+<!ENTITY s-tilde-solz "<choice><expan>s<ex>olz</ex></expan><abbr>s<am>&#x0303;</am></abbr></choice>">
+<!ENTITY tilde-vertical-ier "<choice><expan><ex>ier</ex></expan><abbr><am>&#x035B;</am></abbr></choice>">
+<!ENTITY tilde-vertical-ie "<choice><expan><ex>ie</ex></expan><abbr><am>&#x035B;</am></abbr></choice>">
+<!ENTITY ten-tilde-tenances "<choice><expan>ten<ex>ances</ex></expan><abbr>ten<am>&#x0303;</am></abbr></choice>">
+<!ENTITY tilde-vertical-iers "<choice><expan><ex>iers</ex></expan><abbr><am>&#x035B;</am></abbr></choice>">
+<!ENTITY e-suscrit-eur "<choice><expan>e<ex>ur</ex></expan><abbr><am>&#x0364;</am></abbr></choice>">
+<!ENTITY tilde-vertical-ier "<choice><expan><ex>ier</ex></expan><abbr><am>&#x035B;</am></abbr></choice>">
+<!ENTITY tilde-ee "<choice><expan><ex>ee</ex></expan><abbr><am>&#x0303;</am></abbr></choice>">
+<!ENTITY s-barré-seurs "<choice><expan>s<ex>eurs</ex></expan><abbr><am>&#x1E9C;</am></abbr></choice>">
+<!ENTITY t-tilde-tiste "<choice><expan>t<ex>ist</ex></expan><abbr>te<am>&#x0303;</am></abbr></choice>">
+<!ENTITY q-a-suscrit-qua "<choice><expan>q<ex>u</ex>a</expan><abbr>q<am>&#x0363;</am></abbr></choice>">
+
+<!ENTITY Jhrlm-tilde-Jerusalem "<choice><expan>Jer<ex>usa</ex>l<ex>e</ex>m</expan><abbr>Jhrl<am>&#x0303;</am>m</abbr></choice>">
+<!ENTITY chl-tilde-r-chevalier "<choice><expan>ch<ex>eva</ex>l<ex>ie</ex>r</expan><abbr>chl<am>&#x0303;</am>r</abbr></choice>">
+<!ENTITY Dn-tilde-Domin "<choice><expan>D<ex>omi</ex>n</expan><abbr>Dn<am>&#x0303;</am></abbr></choice>">
+<!ENTITY Dn-tilde-Dominu "<choice><expan>d<ex>omi</ex>n<ex>u</ex></expan><abbr>Dn<am>&#x0303;</am></abbr></choice>">
+<!ENTITY lie-tilde-lise "<choice><expan>li<ex>s</ex>e</expan><abbr>l<am>&#x0303;</am>ie</abbr></choice>">
+<!ENTITY di-tilde-divi "<choice><expan>di<ex>vi</ex></expan><abbr>di<am>&#x0303;</am></abbr></choice>">
+<!ENTITY di-tilde-divin "<choice><expan>di<ex>vin</ex></expan><abbr>di<am>&#x0303;</am></abbr></choice>">
+<!ENTITY epl-tilde-epistl "<choice><expan>ep<ex>ist</ex>l</expan><abbr>epl<am>&#x0303;</am></abbr></choice>">
+<!ENTITY capl-tilde-capitl "<choice><expan>cap<ex>it</ex>l</expan><abbr>capl<am>&#x0303;</am></abbr></choice>">
+

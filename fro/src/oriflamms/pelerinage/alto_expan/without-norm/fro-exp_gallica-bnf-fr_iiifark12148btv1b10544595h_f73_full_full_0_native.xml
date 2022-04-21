@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:tei="http://www.tei-c.org/ns/1.0"
+      xsi:schemaLocn-ation="http://www.loc.gov/standards/alto/ns-v4# ../schema/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>gallica.bnf.fr_iiifark12148btv1b10544595hf73fullfull0native.jpg</fileName>
+      </sourceImageInformation>
+   </Description>
+   <Layout>
+      <Page ID="gallica.bnf.fr_iiifark12148btv1b10544595h/f73fullfull0native"
+            PHYSICAL_IMG_NR="0"
+            WIDTH="2909"
+            HEIGHT="4269">
+         <PrintSpace HPOS="0" VPOS="0" WIDTH="2909" HEIGHT="4269">
+            <TextBlock HPOS="" VPOS="" WIDTH="" HEIGHT="" ID="facs_19_r2">
+               <Shape>
+                  <Polygon POINTS="290 195 290 3457 1438 3457 1438 195"/>
+               </Shape>
+               <TextLine ID="facs_19_r2l3" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="310 358 356 353 402 350 449 347 495 344 542 341 588 339                                     634 337 681 336 727 334 774 333 820 333 866 332 913 331 959 331                                     1006 331 1052 331 1098 331 1145 331 1191 331 1238 332 1238 280                                     1191 279 1145 279 1098 279 1052 279 1006 279 959 279 913 279                                     866 280 820 281 774 281 727 282 681 284 634 285 588 287 542 289                                     495 292 449 295 402 298 356 301 310 306"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l4" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="306 430 353 432 400 433 447 434 494 433 541 433 588 432                                     635 430 682 428 729 427 776 424 823 422 870 420 917 418 964 417                                     1011 415 1058 414 1105 413 1152 413 1199 414 1246 415 1246 363                                     1199 362 1152 361 1105 361 1058 362 1011 363 964 365 917 366                                     870 368 823 370 776 372 729 375 682 376 635 378 588 380 541 381                                     494 381 447 382 400 381 353 380 306 378"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l5" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="294 516 341 516 388 516 435 515 483 514 530 513 577 512                                     625 510 672 509 719 507 767 506 814 504 861 502 908 501 956 499                                     1003 498 1050 497 1098 496 1145 495 1192 495 1240 495 1240 438                                     1192 438 1145 438 1098 439 1050 440 1003 441 956 442 908 444                                     861 445 814 447 767 449 719 450 672 452 625 453 577 455 530 456                                     483 457 435 458 388 459 341 459 294 459"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l6" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="294 600 343 597 392 595 441 592 490 590 540 588 589 587                                     638 586 687 585 736 584 786 583 835 582 884 582 933 581 982 580                                     1032 578 1081 577 1130 576 1179 574 1228 572 1278 569 1278 514                                     1228 517 1179 519 1130 521 1081 522 1032 523 982 525 933 526                                     884 527 835 527 786 528 736 529 687 530 638 531 589 532 540 533                                     490 535 441 537 392 540 343 542 294 545"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l7" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="296 685 347 679 398 674 449 669 500 665 551 661 602 658                                     653 656 704 654 755 653 807 651 858 651 909 650 960 650 1011 651                                     1062 652 1113 653 1164 654 1215 655 1266 657 1318 658 1318 607                                     1266 606 1215 604 1164 603 1113 602 1062 601 1011 600 960 599                                     909 599 858 600 807 600 755 602 704 603 653 605 602 607 551 610                                     500 614 449 618 398 623 347 628 296 634"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1564731706850_404" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="337 694 1248 676 1249 726 338 744"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l10" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="332 841 375 836 418 833 462 830 505 828 548 825 592 823                                     635 822 678 820 722 819 765 818 808 817 852 816 895 815 938 814                                     982 813 1025 812 1068 811 1112 809 1155 807 1199 804 1199 750                                     1155 753 1112 755 1068 757 1025 758 982 759 938 760 895 761                                     852 762 808 763 765 764 722 765 678 766 635 768 592 769 548 771                                     505 774 462 776 418 779 375 782 332 787"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254767961_2575" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="324 836 1150 826 1151 876 325 886"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254772421_2580" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="290 925 1117 911 1118 961 291 975"/>
+                  </Shape>
+                  <String CONTENT="aussi tost com ot ce dit" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254776722_2585" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="288 1004 1268 992 1269 1042 289 1054"/>
+                  </Shape>
+                  <String CONTENT="plus ne la vi dont pas ne rit" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l15" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="290 1143 342 1140 394 1138 447 1136 499 1136 552 1135                                     604 1135 656 1135 709 1136 761 1136 814 1137 866 1137 918 1137                                     971 1137 1023 1136 1076 1134 1128 1132 1180 1129 1233 1125                                     1285 1120 1338 1114 1338 1066 1285 1072 1233 1077 1180 1081                                     1128 1084 1076 1086 1023 1088 971 1089 918 1089 866 1089                                     814 1089 761 1088 709 1088 656 1087 604 1087 552 1087 499 1088                                     447 1088 394 1090 342 1092 290 1095"/>
+                  </Shape>
+                  <String CONTENT="mon cuer qui dolent en estoit" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l17" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="298 1221 341 1223 385 1225 429 1225 473 1226 517 1225                                     560 1225 604 1224 648 1223 692 1221 736 1219 779 1217 823 1216                                     867 1215 911 1213 955 1212 998 1211 1042 1211 1086 1211                                     1130 1212 1174 1214 1174 1160 1130 1158 1086 1157 1042 1157                                     998 1157 955 1158 911 1159 867 1161 823 1162 779 1163 736 1165                                     692 1167 648 1169 604 1170 560 1171 517 1171 473 1172 429 1171                                     385 1171 341 1169 298 1167"/>
+                  </Shape>
+                  <String CONTENT="mais faire plus il nen pouoit" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l18" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="304 1302 343 1304 382 1305 421 1306 461 1306 500 1306                                     539 1306 579 1305 618 1304 657 1302 697 1302 736 1300 775 1298                                     814 1297 854 1294 893 1293 932 1292 972 1291 1011 1290 1050 1289                                     1090 1289 1090 1235 1050 1235 1011 1236 972 1237 932 1238                                     893 1239 854 1240 814 1243 775 1244 736 1246 697 1248 657 1248                                     618 1250 579 1251 539 1252 500 1252 461 1252 421 1252 382 1251                                     343 1250 304 1248"/>
+                  </Shape>
+                  <String CONTENT="toutevoiez aler ma voie" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l19" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="299 1384 332 1383 365 1382 399 1381 432 1381 466 1380                                     499 1380 533 1379 566 1379 600 1379 633 1378 666 1378 700 1378                                     733 1378 767 1377 800 1377 834 1376 867 1376 901 1375 934 1374                                     968 1373 968 1322 934 1323 901 1324 867 1325 834 1325 800 1326                                     767 1326 733 1327 700 1327 666 1327 633 1327 600 1328 566 1328                                     533 1328 499 1329 466 1329 432 1330 399 1330 365 1331 332 1332                                     299 1333"/>
+                  </Shape>
+                  <String CONTENT="si comme proposé lavoie" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l21" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="317 1448 359 1452 401 1454 443 1456 486 1458 528 1459                                     570 1461 613 1462 655 1463 697 1463 740 1464 782 1464 824 1464                                     866 1463 909 1463 951 1462 993 1460 1036 1459 1078 1457                                     1120 1455 1163 1453 1163 1401 1120 1403 1078 1405 1036 1407                                     993 1408 951 1410 909 1411 866 1411 824 1412 782 1412 740 1412                                     697 1411 655 1411 613 1410 570 1409 528 1407 486 1406 443 1404                                     401 1402 359 1400 317 1396"/>
+                  </Shape>
+                  <String CONTENT="je ne veul pas entrelaissier" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l22" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="308 1548 353 1547 399 1546 444 1545 490 1544 536 1544                                     581 1543 627 1543 672 1543 718 1543 764 1543 809 1543 855 1543                                     900 1543 946 1543 992 1542 1037 1542 1083 1541 1128 1540                                     1174 1539 1220 1538 1220 1484 1174 1485 1128 1486 1083 1487                                     1037 1488 992 1488 946 1489 900 1489 855 1489 809 1489 764 1489                                     718 1489 672 1489 627 1489 581 1489 536 1490 490 1490 444 1491                                     399 1492 353 1493 308 1494"/>
+                  </Shape>
+                  <String CONTENT="ains mi veul des lors avoier" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l23" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="314 1628 354 1627 395 1626 435 1626 476 1625 516 1625                                     557 1624 597 1624 638 1624 678 1623 719 1623 759 1622 800 1622                                     840 1621 881 1620 921 1620 962 1619 1002 1618 1043 1616                                     1083 1615 1124 1613 1124 1559 1083 1561 1043 1562 1002 1564                                     962 1565 921 1566 881 1566 840 1567 800 1568 759 1568 719 1569                                     678 1569 638 1570 597 1570 557 1570 516 1571 476 1571 435 1572                                     395 1572 354 1573 314 1574"/>
+                  </Shape>
+                  <String CONTENT="a memoire dis que venist" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l26" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="304 1710 347 1710 390 1710 433 1709 477 1709 520 1709                                     563 1708 607 1708 650 1707 693 1707 737 1706 780 1706 823 1705                                     866 1704 910 1703 953 1702 996 1700 1040 1700 1083 1698                                     1126 1697 1170 1696 1170 1639 1126 1640 1083 1641 1040 1643                                     996 1643 953 1645 910 1646 866 1647 823 1648 780 1649 737 1649                                     693 1650 650 1650 607 1651 563 1651 520 1652 477 1652 433 1652                                     390 1653 347 1653 304 1653"/>
+                  </Shape>
+                  <String CONTENT="aprés moy et que me suist" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l27" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="307 1794 349 1793 392 1793 434 1792 477 1791 520 1790                                     562 1789 605 1788 648 1787 690 1786 733 1785 776 1784 818 1784                                     861 1783 904 1783 946 1783 989 1784 1032 1784 1074 1785                                     1117 1787 1160 1789 1160 1734 1117 1732 1074 1730 1032 1729                                     989 1729 946 1728 904 1728 861 1728 818 1729 776 1729 733 1730                                     690 1731 648 1732 605 1733 562 1734 520 1735 477 1736 434 1737                                     392 1738 349 1738 307 1739"/>
+                  </Shape>
+                  <String CONTENT="que mes armeures aportast" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l29" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="309 1868 353 1867 397 1867 441 1866 485 1866 529 1865                                     573 1864 617 1864 661 1863 705 1863 750 1863 794 1863 838 1863                                     882 1863 926 1864 970 1865 1014 1866 1058 1868 1102 1870                                     1146 1872 1191 1874 1191 1820 1146 1818 1102 1816 1058 1814                                     1014 1812 970 1811 926 1810 882 1809 838 1809 794 1809 750 1809                                     705 1809 661 1809 617 1810 573 1810 529 1811 485 1812 441 1812                                     397 1813 353 1813 309 1814"/>
+                  </Shape>
+                  <String CONTENT="et que nulle nen oubliast" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l30" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="319 1936 353 1938 387 1939 421 1941 455 1942 489 1943                                     523 1943 557 1944 591 1944 625 1944 660 1945 694 1945 728 1945                                     762 1946 796 1946 830 1946 864 1947 898 1948 932 1949 966 1950                                     1001 1952 1001 1903 966 1901 932 1900 898 1899 864 1898 830 1897                                     796 1897 762 1897 728 1896 694 1896 660 1896 625 1895 591 1895                                     557 1895 523 1894 489 1894 455 1893 421 1892 387 1890 353 1889                                     319 1887"/>
+                  </Shape>
+                  <String CONTENT="elle voir le fist ainsi" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l31" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="321 2027 361 2026 401 2025 441 2024 481 2024 521 2024                                     561 2024 601 2024 641 2024 681 2024 721 2024 761 2024 801 2024                                     841 2024 881 2023 921 2023 961 2022 1001 2020 1041 2019                                     1081 2016 1122 2013 1122 1964 1081 1967 1041 1970 1001 1971                                     961 1973 921 1974 881 1974 841 1975 801 1975 761 1975 721 1975                                     681 1975 641 1975 601 1975 561 1975 521 1975 481 1975 441 1975                                     401 1976 361 1977 321 1978"/>
+                  </Shape>
+                  <String CONTENT="tout aporta rien ne perdi comment laucteur met a fin son premier livre exposé"
+                          HPOS=""
+                          VPOS=""
+                          WIDTH=""
+                          HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l32" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="337 2103 385 2104 433 2104 481 2104 529 2104 577 2104                                     625 2104 673 2104 721 2103 769 2103 817 2102 865 2102 913 2101                                     961 2101 1009 2101 1057 2101 1105 2102 1153 2102 1201 2103                                     1249 2105 1298 2106 1298 2054 1249 2053 1201 2051 1153 2050                                     1105 2050 1057 2049 1009 2049 961 2049 913 2049 865 2050                                     817 2050 769 2051 721 2051 673 2052 625 2052 577 2052 529 2052                                     481 2052 433 2052 385 2052 337 2051"/>
+                  </Shape>
+                  <String CONTENT="comment laucteur met a fin son" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l33" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="338 2180 368 2179 398 2178 428 2178 459 2177 489 2177                                     519 2176 550 2176 580 2176 610 2176 641 2175 671 2175 701 2175                                     731 2175 762 2175 792 2174 822 2174 853 2173 883 2173 913 2172                                     944 2171 944 2119 913 2120 883 2121 853 2121 822 2122 792 2122                                     762 2123 731 2123 701 2123 671 2123 641 2123 610 2124 580 2124                                     550 2124 519 2124 489 2125 459 2125 428 2126 398 2126 368 2127                                     338 2128"/>
+                  </Shape>
+                  <String CONTENT="premier livre exposé" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254789907_2597" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="295 2185 1342 2209 1341 2259 294 2235"/>
+                  </Shape>
+                  <String CONTENT="et il en estoit grant mestiers" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254795438_2602" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="307 2266 1080 2286 1079 2336 306 2316"/>
+                  </Shape>
+                  <String CONTENT="car puis trouvay" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254799761_2607" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="309 2350 1139 2372 1138 2422 308 2400"/>
+                  </Shape>
+                  <String CONTENT="tant dencombriers" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254803502_2612" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="307 2431 1328 2451 1327 2501 306 2481"/>
+                  </Shape>
+                  <String CONTENT="que saucunne foiz neuse esté" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l38" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="312 2586 363 2587 415 2588 466 2590 518 2591 569 2592                                     621 2593 672 2593 724 2594 775 2594 827 2595 878 2595 930 2596                                     981 2596 1033 2596 1084 2596 1136 2596 1187 2596 1239 2595                                     1291 2595 1291 2538 1239 2538 1187 2539 1136 2539 1084 2539                                     1033 2539 981 2539 930 2539 878 2538 827 2538 775 2537 724 2537                                     672 2536 621 2536 569 2535 518 2534 466 2533 415 2531 363 2530                                     312 2529"/>
+                  </Shape>
+                  <String CONTENT="darmez garni mort eusse esté" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l39" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="334 2661 384 2664 434 2667 485 2669 535 2670 585 2671                                     636 2672 686 2672 736 2673 787 2673 837 2673 887 2672 938 2672                                     988 2672 1038 2672 1089 2672 1139 2673 1189 2673 1240 2674                                     1290 2676 1341 2678 1341 2626 1290 2624 1240 2622 1189 2621                                     1139 2621 1089 2620 1038 2620 988 2620 938 2620 887 2620                                     837 2621 787 2621 736 2621 686 2620 636 2620 585 2619 535 2618                                     485 2617 434 2615 384 2612 334 2609"/>
+                  </Shape>
+                  <String CONTENT="non pas que touz jours lesvestisse" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l40" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="313 2727 358 2733 403 2738 449 2742 494 2745 540 2747                                     585 2749 630 2750 676 2750 721 2750 767 2750 812 2749 857 2748                                     903 2747 948 2746 994 2745 1039 2744 1084 2744 1130 2744                                     1175 2744 1221 2745 1221 2693 1175 2692 1130 2692 1084 2692                                     1039 2692 994 2693 948 2694 903 2695 857 2696 812 2697 767 2698                                     721 2698 676 2698 630 2698 585 2697 540 2695 494 2693 449 2690                                     403 2686 358 2681 313 2675"/>
+                  </Shape>
+                  <String CONTENT="a mez besoings ne les preisse" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l41" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="314 2815 360 2816 406 2817 452 2819 498 2820 545 2822                                     591 2823 637 2824 683 2824 729 2825 776 2826 822 2826 868 2826                                     914 2826 960 2826 1007 2826 1053 2825 1099 2824 1145 2823                                     1191 2821 1238 2820 1238 2768 1191 2769 1145 2771 1099 2772                                     1053 2773 1007 2774 960 2774 914 2774 868 2774 822 2774 776 2774                                     729 2773 683 2772 637 2772 591 2771 545 2770 498 2768 452 2767                                     406 2765 360 2764 314 2763"/>
+                  </Shape>
+                  <String CONTENT="car maintez foiz par ma peresce" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l42" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="306 2886 345 2888 385 2890 424 2892 464 2893 504 2895                                     543 2896 583 2897 623 2898 662 2899 702 2900 742 2901 781 2901                                     821 2902 861 2902 900 2903 940 2903 980 2904 1019 2904 1059 2904                                     1099 2904 1099 2852 1059 2852 1019 2852 980 2852 940 2851                                     900 2851 861 2850 821 2850 781 2849 742 2849 702 2848 662 2847                                     623 2846 583 2845 543 2844 504 2843 464 2841 424 2840 385 2838                                     345 2836 306 2834"/>
+                  </Shape>
+                  <String CONTENT="cops de dart et de saiette" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l43" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="292 2977 341 2976 391 2977 440 2977 490 2978 540 2979                                     589 2979 639 2981 689 2982 738 2984 788 2985 838 2987 887 2989                                     937 2991 987 2993 1036 2995 1086 2996 1136 2998 1185 2999                                     1235 3001 1285 3002 1285 2954 1235 2953 1185 2951 1136 2950                                     1086 2948 1036 2947 987 2945 937 2943 887 2941 838 2939 788 2937                                     738 2936 689 2934 639 2933 589 2931 540 2931 490 2930 440 2929                                     391 2929 341 2928 292 2929"/>
+                  </Shape>
+                  <String CONTENT="souffri que souffert pas neusse" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254807553_2617" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="319 2986 1060 3009 1059 3059 318 3036"/>
+                  </Shape>
+                  <String CONTENT="se bien armé esté eusse" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254813564_2622" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="305 3061 1342 3091 1341 3141 304 3111"/>
+                  </Shape>
+                  <String CONTENT="or vous ai dit tout sans mençonge" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l46" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="300 3215 344 3213 388 3211 432 3210 476 3210 521 3211                                     565 3212 609 3213 653 3215 697 3217 742 3219 786 3220 830 3222                                     874 3223 918 3224 963 3225 1007 3225 1051 3225 1095 3224                                     1139 3222 1184 3218 1184 3167 1139 3171 1095 3173 1051 3174                                     1007 3174 963 3174 918 3173 874 3172 830 3171 786 3169 742 3168                                     697 3166 653 3164 609 3162 565 3161 521 3160 476 3159 432 3159                                     388 3160 344 3162 300 3164"/>
+                  </Shape>
+                  <String CONTENT="une partie de mon songe" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254824273_2630" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="340 3218 1215 3242 1214 3292 339 3268"/>
+                  </Shape>
+                  <String CONTENT="le remenant vous conteray" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l48" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="322 3361 366 3362 410 3364 454 3366 498 3367 542 3370                                     586 3372 631 3374 675 3375 719 3377 763 3379 807 3380 851 3382                                     895 3382 940 3383 984 3383 1028 3383 1072 3383 1116 3382                                     1160 3380 1205 3379 1205 3327 1160 3328 1116 3330 1072 3331                                     1028 3331 984 3331 940 3331 895 3330 851 3330 807 3328 763 3327                                     719 3325 675 3323 631 3322 586 3320 542 3318 498 3315 454 3314                                     410 3312 366 3310 322 3309"/>
+                  </Shape>
+                  <String CONTENT="ci aprés quant temps en aray" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r2l49" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="360 3432 404 3437 448 3443 492 3446 536 3449 580 3451                                     624 3454 669 3455 713 3456 757 3457 801 3457 845 3457 889 3457                                     933 3456 978 3455 1022 3455 1066 3454 1110 3453 1154 3452                                     1198 3452 1243 3451 1243 3399 1198 3400 1154 3400 1110 3401                                     1066 3402 1022 3403 978 3403 933 3404 889 3405 845 3405 801 3405                                     757 3405 713 3404 669 3403 624 3402 580 3399 536 3397 492 3394                                     448 3391 404 3385 360 3380"/>
+                  </Shape>
+                  <String CONTENT="et vous plus volentiers lorrés" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock HPOS="" VPOS="" WIDTH="" HEIGHT="" ID="facs_19_r4">
+               <Shape>
+                  <Polygon POINTS="1453 210 1453 3462 2553 3462 2553 210"/>
+               </Shape>
+               <TextLine ID="facs_19_r4l2" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1497 327 1536 329 1576 331 1616 333 1655 334 1695 336                                     1735 337 1774 339 1814 340 1854 341 1894 342 1933 342 1973 343                                     2013 343 2052 343 2092 344 2132 343 2171 343 2211 343 2251 342                                     2291 341 2291 287 2251 288 2211 289 2171 289 2132 289 2092 290                                     2052 289 2013 289 1973 289 1933 288 1894 288 1854 287 1814 286                                     1774 285 1735 283 1695 282 1655 280 1616 279 1576 277 1536 275                                     1497 273"/>
+                  </Shape>
+                  <String CONTENT="quant un po reposés serés" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l3" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1484 409 1531 408 1579 408 1627 408 1675 409 1723 410                                     1771 411 1819 412 1867 414 1915 415 1963 416 2010 418 2058 419                                     2106 420 2154 421 2202 421 2250 421 2298 421 2346 421 2394 420                                     2442 418 2442 367 2394 369 2346 370 2298 370 2250 370 2202 370                                     2154 370 2106 369 2058 368 2010 367 1963 365 1915 364 1867 363                                     1819 361 1771 360 1723 359 1675 358 1627 357 1579 357 1531 357                                     1484 358"/>
+                  </Shape>
+                  <String CONTENT="sans entreval trestout ennuie" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l4" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1490 479 1541 481 1593 483 1644 486 1696 487 1747 489                                     1799 490 1850 492 1902 493 1953 494 2005 495 2056 496 2108 496                                     2159 497 2211 497 2262 497 2314 496 2365 495 2417 494 2469 493                                     2469 442 2417 443 2365 444 2314 445 2262 446 2211 446 2159 446                                     2108 445 2056 445 2005 444 1953 443 1902 442 1850 441 1799 439                                     1747 438 1696 436 1644 435 1593 432 1541 430 1490 428"/>
+                  </Shape>
+                  <String CONTENT="et le biau temps et cil de pluie" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1564731761355_452" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1501 510 2435 514 2435 564 1501 560"/>
+                  </Shape>
+                  <String CONTENT="une autre fois vous revenrez" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1564731770107_457" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1508 583 2375 595 2374 645 1507 633"/>
+                  </Shape>
+                  <String CONTENT="se plus ouir vous en voulez" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l9" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1501 730 1539 730 1578 730 1617 730 1656 730 1694 731                                     1733 731 1772 732 1811 733 1849 733 1888 734 1927 735 1966 735                                     2004 736 2043 736 2082 737 2121 737 2159 737 2198 737 2237 736                                     2276 735 2276 681 2237 682 2198 683 2159 683 2121 683 2082 683                                     2043 682 2004 682 1966 681 1927 681 1888 680 1849 679 1811 679                                     1772 678 1733 677 1694 677 1656 676 1617 676 1578 676 1539 676                                     1501 676"/>
+                  </Shape>
+                  <String CONTENT="et tandis je maviseray" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l10" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1493 805 1534 806 1575 807 1616 809 1658 810 1699 811                                     1740 812 1781 813 1823 813 1864 814 1905 815 1946 816 1988 816                                     2029 817 2070 818 2111 818 2153 819 2194 819 2235 820 2276 821                                     2318 821 2318 767 2276 767 2235 766 2194 765 2153 765 2111 764                                     2070 764 2029 763 1988 762 1946 762 1905 761 1864 760 1823 759                                     1781 759 1740 758 1699 757 1658 756 1616 755 1575 753 1534 752                                     1493 751"/>
+                  </Shape>
+                  <String CONTENT="da point conter si com songay" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1564731787695_470" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1511 907 2473 912 2473 962 1511 957"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l13" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1475 1045 1518 1044 1562 1044 1606 1043 1649 1042                                     1693 1042 1737 1041 1780 1040 1824 1039 1868 1038 1912 1037                                     1955 1036 1999 1035 2043 1034 2086 1034 2130 1033 2174 1032                                     2217 1032 2261 1032 2305 1032 2349 1033 2349 988 2305 987                                     2261 987 2217 987 2174 987 2130 988 2086 989 2043 989 1999 990                                     1955 991 1912 992 1868 993 1824 994 1780 995 1737 996 1693 997                                     1649 997 1606 998 1562 999 1518 999 1475 1000"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254849260_2661" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1470 1147 2435 1155 2435 1205 1470 1197"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254874493_2675" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1473 1222 2468 1238 2467 1288 1472 1272"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254878474_2680" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1471 1302 2518 1318 2517 1368 1470 1352"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254883454_2685" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1455 1381 2488 1401 2487 1451 1454 1431"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l18" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1469 1538 1518 1536 1568 1534 1618 1533 1668 1533                                     1717 1533 1767 1533 1817 1534 1867 1534 1916 1535 1966 1536                                     2016 1537 2066 1538 2115 1539 2165 1539 2215 1539 2265 1539                                     2314 1538 2364 1536 2414 1534 2464 1532 2464 1481 2414 1483                                     2364 1485 2314 1487 2265 1488 2215 1488 2165 1488 2115 1488                                     2066 1487 2016 1486 1966 1485 1916 1484 1867 1483 1817 1483                                     1767 1482 1717 1482 1668 1482 1618 1482 1568 1483 1518 1485                                     1469 1487"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1564731802078_480" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1511 1553 2434 1559 2434 1609 1511 1603"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254887175_2690" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1471 1626 2275 1648 2274 1698 1470 1676"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1565254891564_2695" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1478 1711 2502 1743 2501 1793 1477 1761"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l22" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1510 1834 1554 1841 1599 1847 1644 1853 1689 1857                                     1734 1861 1778 1864 1823 1866 1868 1867 1913 1869 1958 1869                                     2002 1870 2047 1869 2092 1869 2137 1868 2182 1867 2226 1866                                     2271 1864 2316 1863 2361 1861 2406 1859 2406 1811 2361 1813                                     2316 1815 2271 1816 2226 1818 2182 1819 2137 1820 2092 1821                                     2047 1821 2002 1822 1958 1821 1913 1821 1868 1819 1823 1818                                     1778 1816 1734 1813 1689 1809 1644 1805 1599 1799 1554 1793                                     1510 1786"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l23" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1472 1932 1523 1932 1574 1933 1625 1934 1677 1935                                     1728 1936 1779 1938 1830 1939 1882 1941 1933 1943 1984 1945                                     2035 1946 2087 1948 2138 1948 2189 1949 2240 1949 2292 1949                                     2343 1949 2394 1947 2445 1946 2497 1943 2497 1891 2445 1894                                     2394 1895 2343 1897 2292 1897 2240 1897 2189 1897 2138 1896                                     2087 1896 2035 1894 1984 1893 1933 1891 1882 1889 1830 1887                                     1779 1886 1728 1884 1677 1883 1625 1882 1574 1881 1523 1880                                     1472 1880"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l24" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1497 2006 1540 2010 1584 2014 1627 2016 1671 2019                                     1714 2020 1758 2022 1801 2023 1845 2024 1888 2025 1932 2025                                     1975 2026 2019 2026 2062 2026 2106 2026 2149 2026 2193 2026                                     2236 2026 2280 2027 2323 2027 2367 2028 2367 1974 2323 1973                                     2280 1973 2236 1972 2193 1972 2149 1972 2106 1972 2062 1972                                     2019 1972 1975 1972 1932 1971 1888 1971 1845 1970 1801 1969                                     1758 1968 1714 1966 1671 1965 1627 1962 1584 1960 1540 1956                                     1497 1952"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l25" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1492 2093 1540 2096 1588 2100 1637 2102 1685 2105                                     1734 2106 1782 2107 1831 2108 1879 2109 1928 2109 1976 2109                                     2024 2109 2073 2109 2121 2108 2170 2108 2218 2107 2267 2107                                     2315 2106 2364 2106 2412 2106 2461 2105 2461 2051 2412 2052                                     2364 2052 2315 2052 2267 2053 2218 2053 2170 2054 2121 2054                                     2073 2055 2024 2055 1976 2055 1928 2055 1879 2055 1831 2054                                     1782 2053 1734 2052 1685 2051 1637 2048 1588 2046 1540 2042                                     1492 2039"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l26" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1508 2176 1553 2176 1599 2177 1644 2178 1690 2179                                     1736 2179 1781 2180 1827 2181 1872 2181 1918 2182 1964 2182                                     2009 2182 2055 2183 2100 2183 2146 2183 2192 2183 2237 2182                                     2283 2182 2328 2182 2374 2181 2420 2180 2420 2126 2374 2127                                     2328 2128 2283 2128 2237 2128 2192 2129 2146 2129 2100 2129                                     2055 2129 2009 2128 1964 2128 1918 2128 1872 2127 1827 2127                                     1781 2126 1736 2125 1690 2125 1644 2124 1599 2123 1553 2122                                     1508 2122"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1564731813996_492" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1518 2202 2486 2207 2486 2257 1518 2252"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l29" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1495 2333 1536 2336 1577 2337 1619 2339 1660 2341                                     1702 2342 1743 2343 1785 2344 1826 2344 1868 2344 1909 2345                                     1950 2345 1992 2345 2033 2345 2075 2345 2116 2345 2158 2345                                     2199 2345 2241 2346 2282 2347 2324 2348 2324 2294 2282 2293                                     2241 2292 2199 2291 2158 2291 2116 2291 2075 2291 2033 2291                                     1992 2291 1950 2291 1909 2291 1868 2290 1826 2290 1785 2290                                     1743 2289 1702 2288 1660 2287 1619 2285 1577 2283 1536 2282                                     1495 2279"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l30" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1505 2414 1552 2416 1599 2418 1646 2420 1693 2421                                     1740 2423 1787 2424 1835 2424 1882 2425 1929 2425 1976 2425                                     2023 2425 2070 2424 2117 2423 2165 2422 2212 2421 2259 2419                                     2306 2417 2353 2415 2400 2413 2448 2410 2448 2356 2400 2359                                     2353 2361 2306 2363 2259 2365 2212 2367 2165 2368 2117 2369                                     2070 2370 2023 2371 1976 2371 1929 2371 1882 2371 1835 2370                                     1787 2370 1740 2369 1693 2367 1646 2366 1599 2364 1552 2362                                     1505 2360"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l31" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1504 2492 1554 2494 1605 2496 1656 2499 1707 2500                                     1758 2502 1809 2505 1859 2507 1910 2508 1961 2510 2012 2512                                     2063 2513 2114 2514 2165 2515 2215 2515 2266 2515 2317 2515                                     2368 2514 2419 2513 2470 2511 2521 2509 2521 2455 2470 2457                                     2419 2459 2368 2460 2317 2461 2266 2461 2215 2461 2165 2461                                     2114 2460 2063 2459 2012 2458 1961 2456 1910 2454 1859 2453                                     1809 2451 1758 2448 1707 2446 1656 2445 1605 2442 1554 2440                                     1504 2438"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l32" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1506 2576 1557 2581 1608 2585 1660 2588 1711 2591                                     1763 2592 1814 2594 1866 2595 1917 2596 1969 2596 2020 2596                                     2071 2597 2123 2597 2174 2597 2226 2598 2277 2598 2329 2599                                     2380 2601 2432 2603 2483 2605 2535 2609 2535 2557 2483 2553                                     2432 2551 2380 2549 2329 2547 2277 2546 2226 2546 2174 2545                                     2123 2545 2071 2545 2020 2544 1969 2544 1917 2544 1866 2543                                     1814 2542 1763 2540 1711 2539 1660 2536 1608 2533 1557 2529                                     1506 2524"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l33" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1506 2657 1558 2659 1610 2661 1663 2663 1715 2664                                     1767 2665 1820 2666 1872 2666 1924 2667 1977 2667 2029 2668                                     2081 2668 2134 2668 2186 2668 2238 2669 2291 2669 2343 2670                                     2395 2670 2448 2672 2500 2673 2553 2675 2553 2623 2500 2621                                     2448 2620 2395 2618 2343 2618 2291 2617 2238 2617 2186 2616                                     2134 2616 2081 2616 2029 2616 1977 2615 1924 2615 1872 2614                                     1820 2614 1767 2613 1715 2612 1663 2611 1610 2609 1558 2607                                     1506 2605"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l34" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1506 2728 1552 2730 1599 2733 1646 2735 1693 2737                                     1740 2739 1787 2741 1834 2743 1881 2744 1928 2746 1975 2747                                     2021 2748 2068 2749 2115 2749 2162 2750 2209 2750 2256 2750                                     2303 2749 2350 2748 2397 2747 2444 2746 2444 2694 2397 2695                                     2350 2696 2303 2697 2256 2698 2209 2698 2162 2698 2115 2697                                     2068 2697 2021 2696 1975 2695 1928 2694 1881 2692 1834 2691                                     1787 2689 1740 2687 1693 2685 1646 2683 1599 2681 1552 2678                                     1506 2676"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l35" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1503 2818 1549 2820 1595 2823 1641 2826 1687 2827                                     1733 2829 1779 2831 1825 2832 1871 2834 1917 2834 1963 2835                                     2009 2835 2055 2835 2101 2835 2147 2834 2193 2834 2239 2833                                     2285 2831 2331 2829 2377 2827 2424 2825 2424 2771 2377 2773                                     2331 2775 2285 2777 2239 2779 2193 2780 2147 2780 2101 2781                                     2055 2781 2009 2781 1963 2781 1917 2780 1871 2780 1825 2778                                     1779 2777 1733 2775 1687 2773 1641 2772 1595 2769 1549 2766                                     1503 2764"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l36" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1517 2905 1561 2906 1606 2906 1650 2907 1695 2908                                     1740 2908 1784 2909 1829 2909 1874 2910 1918 2910 1963 2910                                     2008 2911 2052 2911 2097 2911 2142 2911 2186 2910 2231 2910                                     2276 2909 2320 2909 2365 2907 2410 2906 2410 2852 2365 2853                                     2320 2855 2276 2855 2231 2856 2186 2856 2142 2857 2097 2857                                     2052 2857 2008 2857 1963 2856 1918 2856 1874 2856 1829 2855                                     1784 2855 1740 2854 1695 2854 1650 2853 1606 2852 1561 2852                                     1517 2851"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l37" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1506 2987 1547 2987 1588 2987 1629 2987 1671 2987                                     1712 2987 1753 2988 1795 2988 1836 2988 1877 2988 1919 2988                                     1960 2988 2001 2988 2042 2987 2084 2987 2125 2986 2166 2986                                     2208 2985 2249 2984 2290 2983 2332 2982 2332 2928 2290 2929                                     2249 2930 2208 2931 2166 2932 2125 2932 2084 2933 2042 2933                                     2001 2934 1960 2934 1919 2934 1877 2934 1836 2934 1795 2934                                     1753 2934 1712 2933 1671 2933 1629 2933 1588 2933 1547 2933                                     1506 2933"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l38" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1493 3064 1538 3064 1583 3065 1628 3066 1673 3067                                     1719 3067 1764 3068 1809 3069 1854 3069 1899 3069 1945 3069                                     1990 3069 2035 3069 2080 3068 2125 3067 2171 3066 2216 3065                                     2261 3064 2306 3062 2351 3060 2397 3057 2397 3006 2351 3009                                     2306 3011 2261 3013 2216 3014 2171 3015 2125 3016 2080 3017                                     2035 3018 1990 3018 1945 3018 1899 3018 1854 3018 1809 3018                                     1764 3017 1719 3016 1673 3016 1628 3015 1583 3014 1538 3013                                     1493 3013"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l39" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1544 3140 1586 3138 1628 3137 1670 3137 1712 3137                                     1754 3138 1796 3140 1838 3141 1880 3143 1922 3144 1964 3146                                     2006 3147 2048 3148 2090 3148 2132 3148 2174 3148 2216 3146                                     2258 3144 2300 3140 2342 3135 2384 3129 2384 3077 2342 3083                                     2300 3088 2258 3092 2216 3094 2174 3096 2132 3096 2090 3096                                     2048 3096 2006 3095 1964 3094 1922 3092 1880 3091 1838 3089                                     1796 3088 1754 3086 1712 3085 1670 3085 1628 3085 1586 3086                                     1544 3088"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_line_1564731834809_504" BASELINE="" HPOS="" VPOS="" WIDTH=""
+                         HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1525 3166 2535 3164 2535 3214 1525 3216"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l42" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1491 3301 1542 3298 1593 3297 1644 3295 1696 3294                                     1747 3294 1798 3294 1850 3295 1901 3296 1952 3297 2004 3299                                     2055 3300 2106 3301 2157 3302 2209 3302 2260 3303 2311 3303                                     2363 3302 2414 3300 2465 3298 2517 3296 2517 3244 2465 3246                                     2414 3248 2363 3250 2311 3251 2260 3251 2209 3250 2157 3250                                     2106 3249 2055 3248 2004 3247 1952 3245 1901 3244 1850 3243                                     1798 3242 1747 3242 1696 3242 1644 3243 1593 3245 1542 3246                                     1491 3249"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l43" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1515 3380 1565 3379 1616 3378 1667 3378 1718 3378                                     1769 3378 1820 3377 1870 3377 1921 3377 1972 3377 2023 3377                                     2074 3377 2125 3377 2176 3377 2226 3376 2277 3376 2328 3375                                     2379 3374 2430 3373 2481 3371 2532 3370 2532 3316 2481 3317                                     2430 3319 2379 3320 2328 3321 2277 3322 2226 3322 2176 3323                                     2125 3323 2074 3323 2023 3323 1972 3323 1921 3323 1870 3323                                     1820 3323 1769 3324 1718 3324 1667 3324 1616 3324 1565 3325                                     1515 3326"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+               <TextLine ID="facs_19_r4l44" BASELINE="" HPOS="" VPOS="" WIDTH="" HEIGHT="">
+                  <Shape>
+                     <Polygon POINTS="1517 3460 1542 3461 1567 3461 1593 3462 1618 3461                                     1644 3461 1669 3460 1694 3459 1720 3458 1745 3456 1771 3455                                     1771 3401 1745 3402 1720 3404 1694 3405 1669 3406 1644 3407                                     1618 3407 1593 3408 1567 3407 1542 3407 1517 3406"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="" VPOS="" WIDTH="" HEIGHT=""/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
