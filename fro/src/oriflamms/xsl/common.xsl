@@ -8,7 +8,7 @@
     
     <!-- Setting up -->
     
-    <xsl:output method="xml" indent="yes"/>
+    <xsl:output method="xml" indent="no"/>
     
     <xsl:strip-space elements="*"/>
     <xsl:param name="expansion" select="false()"/>
@@ -24,6 +24,10 @@
     </xsl:template>
     
     <xsl:template match="tei:teiHeader | tei:front | tei:back | tei:facsimile"/>
+    
+    <xsl:template match="tei:pb | tei:lb | tei:cb | tei:gb">
+        <xsl:text> </xsl:text>
+    </xsl:template>
     
     <xsl:template match="tei:date | tei:persName | tei:placeName | tei:orgName |
         tei:addName | tei:roleName | tei:geogName | tei:name | tei:surname |
@@ -57,8 +61,8 @@
     <!-- Normalisations -->
     <xsl:template match="text()">
         <xsl:value-of select='translate(lower-case(normalize-unicode(translate(., "δꝛſ", "drs"), "nfkd")),
-            "&apos;’",
-            ""
+            "’",
+            "&apos;"
             )'/>
     </xsl:template>
     

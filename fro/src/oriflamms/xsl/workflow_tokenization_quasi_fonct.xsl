@@ -10,6 +10,8 @@
     <!-- Tenir compte des ' pour créer des mots avec rend="elision": fait -->
     <!-- /!\ si une ligne ne contient qu'un seul w, elle est vidée: corrigé -->
 
+    
+    <xsl:output method="xml" indent="yes"/>
     <xsl:template match="@* | node()" mode="#all">
         <xsl:copy>
             <xsl:apply-templates select="@* | node()" mode="#current"/>
