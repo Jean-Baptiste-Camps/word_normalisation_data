@@ -60,9 +60,11 @@
     
     <!-- Normalisations -->
     <xsl:template match="text()">
-        <xsl:value-of select='translate(normalize-unicode(translate(., "δꝛſ", "drs"), "nfkd"),
+        <xsl:value-of select='translate(translate(normalize-unicode(translate(., "ɑ&#61975;ıδꝛɼſ", "aeidrrss"), "nfkd"),
             "’",
             "&apos;"
+            ), 
+            "&#769;&#775;", "" 
             )'/>
     </xsl:template>
     

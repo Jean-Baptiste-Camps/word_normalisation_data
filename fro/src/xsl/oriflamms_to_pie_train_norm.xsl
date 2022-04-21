@@ -43,8 +43,16 @@
     
     
     <xsl:template match="text()" mode="#all">
-        <xsl:value-of select="translate(translate(translate(translate(normalize-unicode(normalize-space(.), 'nfc'), ' ',''), 'ſ', 's'), 'δ', 'd'),'ꝛ', 'r')"/>
+        <!--<xsl:value-of select="
+            translate(translate(translate(translate(normalize-unicode(normalize-space(.), 'nfc'), ' ',''), 'ſ', 's'), 'δ', 'd'),'ꝛ', 'r')"/>-->
         <!--<xsl:value-of select="normalize-space(.)"/>-->
+        <xsl:value-of select='normalize-unicode(translate(translate(normalize-unicode(translate(normalize-space(.), 
+            "ɑΛ&#61975;ıȷδꝛɼſ&#658;", "aaeijdrrssz"), "nfkd"),
+            "’",
+            "&apos;"
+            ), 
+            "&#769;&#775;", "" 
+            ), "nfc")'/>
     </xsl:template>
     
     
