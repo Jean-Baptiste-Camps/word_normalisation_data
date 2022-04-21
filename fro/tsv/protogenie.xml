@@ -20,6 +20,14 @@
             <header type="default" />
             <splitter name="token_window" window="25"></splitter><!-- BAD, but we need one… -->
         </corpus>
+        <corpus path="oriflamms/*.tsv" column_marker="TAB">
+            <header type="default" />
+            <splitter name="token_window" window="25"></splitter><!-- BAD, but we need one… -->
+        </corpus>
+        <corpus path="wauchier/*.tsv" column_marker="TAB">
+            <header type="default" />
+            <splitter name="token_window" window="25"></splitter><!-- BAD, but we need one… -->
+        </corpus>
     </corpora>
     <memory path="./fro_normalisation"/>
 </config>

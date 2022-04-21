@@ -10,9 +10,11 @@
     
     <xsl:template match="/">
         <xsl:text>token&#9;normalised&#10;</xsl:text>
-        <xsl:apply-templates select="descendant::tei:w | descendant::tei:pc"/>
+        <xsl:apply-templates select="descendant::tei:w"/>
     </xsl:template>
     
+    <!-- Here, remove all punctuation for now -->
+    <xsl:template match="tei:pc"/>
     
     <xsl:template match="tei:choice" mode="orig">
         <xsl:apply-templates select="tei:abbr | tei:orig | tei:sic"/>
@@ -22,7 +24,7 @@
         <xsl:apply-templates select="tei:expan | tei:reg | tei:corr"/>
     </xsl:template>
     
-    <xsl:template match="tei:w | tei:pc">
+    <xsl:template match="tei:w[not(normalize-space(.) ='')]">
         <xsl:variable name="orig">
             <xsl:apply-templates mode="orig"/>
         </xsl:variable>

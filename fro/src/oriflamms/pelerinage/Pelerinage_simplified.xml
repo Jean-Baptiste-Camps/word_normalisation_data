@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><teiCorpus xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"><TEI n="Aix-en-Provence_BM_Méjanes_110"><text><body><p>   Aussi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me elle ot ce dit
+                                     Plus ne la vi
+                              do<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t pas ne rit  Mon cuer qui
+                              dole<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t en estoit  Mais faire
+                              plus il n'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> pouoit  Toutes
+                              voies voies aler ma voie  Si come
+                              <choice><expan>p<ex>ro</ex></expan><abbr><am>ꝓ</am></abbr></choice>posé l'avoie  Je ne vos
+                              pas entreleissier  Ains m'i voul de
+                              lors avoier  A
+                              memoire dis qu'elle venist  Aprés moy
+                              et <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice>lle me suist  Que mes
+                              armeures aportast  Et que nulle rien
+                              n'oubliast  Elle voir le fist ainsi
+                                     Tout aporta rien ne
+                              <choice><expan>p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>di  Et il en estoit
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt mestiers   Quar puis trouvay ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              d'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>briers  Que s'aucune fois
+                              n'eusse esté  D'armes
+                              garni mort eusse esté  No<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> pas
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> to<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> jours les vestisse  A mes besoings ne ne preisse  Quar mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tes fois <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> ma
+                              paresse  Cops de dars et de saiete  Souffri <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> souffert
+                              n'eusse  Si bie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> armé esté
+                              eusse  Or vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> ay dit tout
+                              sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>so<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ge  Une partie de
+                              mo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> songe  Le remena<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> conteray  Si aprés
+                              <choice><expan>q<ex>u</ex>a<ex>nt</ex></expan><abbr><am>ꝙ</am><am>ͣ</am></abbr></choice> te<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>ps en aray  Et vous plus vole<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tiers l'orés  Qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t un po reposez serez
+                                     Sans entreval trestout ennuye
+                                     Et le bien te<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>ps et si
+                              de pluie  Une autre fois
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> revenrés  Se plus oïr
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> en voulez  Et tandis
+                              je m'aviseray  D'a point compter si
+                              <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>me so<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>gay   <gap/>  A chemi<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> me mis sans targier
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et com<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>ensay a costoier  La mer tout
+                              selonc le rivage  Mes pas ne fis
+                              <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice> gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t voyage  Que vi douce gens seignés vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice>,  Vne laide beste que tous  Que bie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> regarder l'aroient  Jamais asseur ne
+                              seroient  Pour moy le di mama le
+                              crient  Toutez les fois qu'il
+                              l'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> souvie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t  Celle
+                              beste estoit desguisee  Si
+                              laidem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t figuree    Si que du <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>ler
+                              gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t hisde aroie  Se
+                              longuem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> em <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>loie  Ordené ai que pai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>turee  Elle soit ici et figuree  Afin que qui voudra la voia  Autrem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t chevir n'en saroie
+                                     Toutes voiez tant vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice>
+                              e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> di  Que en
+                              la mer peschier le vi  Dedens avoit
+                              getez ses ains  Et la ligne tenoit aus
+                              mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s  Un cor au col pendu
+                              avoit  Et un trousel de las portoit
+                                     Et rois
+                              volens avoit tenduez  Sur la mer au
+                              dessous les nuez  Qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t venir
+                              me vit a corner  Come<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>sa
+                              ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tost et iuper  A tendre a
+                              ma voie ses las  A fin que
+                              n'eschapasse pas  Quar ie vi tel
+                              aprestem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t  Esbahi fu
+                              <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice> gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>dem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t  Quar je vi bie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> que se passoie  Par li tantost pri<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> ie
+                              seroie  Dous diex dis ie que ferai ie
+                                     Mal chemi<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> truis ou
+                              irai ie  Jamais n'istrai de ceste
+                              place  Se n'ay secours de
+                              <choice><expan>v<ex>ost</ex>r</expan><abbr>vr<am>̃</am></abbr></choice>e grace  <gap/></p></body></text></TEI><TEI n="Baltimore_Walters-arts-museum_W141"><text><body><p>   Aussi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me elle ot ce dist
+                                    <milestone unit="justification-findeligne" break="yes"/> Plus ne la
+                              vit dont pas ne rit  Mon cuer qui
+                              dollent en estoit  Mes plus faire il
+                              n'en pooit  Toutevoiez aler ma voie  Si co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me
+                              pourpensé l'avoie  Je ne voulx pas
+                              entrelaissier  Ains me vois des lors avoier  A memoire dis que
+                              venist  Aprés
+                              moy <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> et me suivist  Que mes armes
+                              aportast  Et
+                              que nulle n'en n'i laissat  Et elle voir le
+                              fist ainssi  Tout aporta riens n'i perdi  Et il en estoit
+                              grans mestiers   Quar puis
+                              trouvay tant d'enco<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>briers  Que s'aucune fois
+                              n'eusse esté  Armés, mors eüsse esté  Non pas que
+                              tousjours les vestisse  A mon besoing ne ne
+                              p<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>isse  Car maintes fois
+                              par ma <choice><expan>p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>esce  Cops de dars
+                              <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> de sayectes  Souffri que pas
+                              souffert n'euse  Se <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice> armé esté eusse  Or vous ay dit tout sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s
+                              me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ço<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ge  Une partie de mon songe
+                                     Le remanant
+                              vous conteray  Ci
+                              ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>s qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t tamps en aray  Et vous plus
+                              volentiers l'orrés  Quant un pou
+                              reposés serés  Sans entreval t<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>stout e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>nuye  Et le bel tamps
+                              <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> cilz de pluie  Une autre fois
+                              vous reve<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>rés  Se plus oïr vous
+                              en voulés  Et
+                              tendis je m'aviseray  D'a point conter
+                              si com je sçay   <gap/>  A chemin me
+                              mis sans targier <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et
+                              co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>mençay a costoier  La mer tout entour
+                              le rivage  Mais pas n'i fis <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice> gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t voiage  Que vi douce gent
+                              seigniez vous,  Si laide beste est a tous  Qui
+                              <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice> regardé l'aroit  Jamais asseurs ne
+                              seroit  Pour
+                              moy le di m'a<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me le tient    Tout les fois qui leur souvient  Celle beste estoit desguisee  Et si laidement figuree  Que du <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>ler grant hide aroie
+                                     Se longuem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t vous en
+                              <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>loie  Ordonné ay que
+                              painturee  Elle soit ici <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice>
+                              figuree  Afin que qui vouldra la voie
+                                     Aut<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>ment
+                              chevir n'en saroie  Toutes voiez tant vous en di  Que en la mer peschier le vi  Dedens avoit tendu ses ains  Et la ligne tenoit aux mains  Un cor au col pendu avoit  Et un troussel de las portoit  Et rois volans avoit tenduez  En la mer au dessoubz des nuez  Quant venir me vit a corner  Co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>mença tantost <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice>
+                              iuper  A tendre en ma voie ces las
+                                     A fin que n'eschapasse pas  Quant ie vi telz
+                              ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>stemens  Esbaÿ
+                              je fu mout grandement  Car je vi
+                              <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice> que se passoie  Tantost <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> lui tantost pris ie seroie  Doulx dieu ie que feray ie  Mal chemin truis ou yray ie  Jamais n'istray de ceste place   Se n'ay secours par
+                              vostre grace</p></body></text></TEI><TEI n="Paris_BnF_fr_824"><text><body><p>   Ainsi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> elle ot ce dit
+                                    <milestone unit="justification-findeligne" break="yes"/> Plus ne la vis
+                              dont pas ne rist  Mon cuer qui dolent
+                              en estoit  Mais faire plus yl ne
+                              pouoit  Toutevoie aler ma voie  Si co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me proposé l'avoie
+                                     Je ne veus pas entrelaissier
+                                      Ains m'i voul des lors avoier  A memoire dis que venist  Aprés moy et que me suist  Que mes armeures aportast  Et que nulle n'en oubliast  Elle voir le fist ainsi  Tout aporta rien ne perdi  Et il en estoit grant
+                              mestiers  Quar puis
+                              trouvay ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t d'enco<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>briers  Que s'aucune fois
+                              n'eusse esté  D'armes garni mort
+                              eusse esté  Non pas que tous jours
+                              les vestisse  A mes besoings ne ne
+                              preisse  Car maintes fois par ma
+                              peresse  Cops de dart et de saete  Souffri que pas souffert n'eusse
+                                     Se bien armé esté eusse  Or vous ay dis tous sans
+                              me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ço<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ge  Une partie de mon songe
+                                     Le remanant vous conteray  Et aprés quant temps en auray  Et vous plus volentiers l'orrés
+                                     Quant un po reposés serés  Sans entreval trestout ennuie  Et le biau temps et cil de pluie
+                                     Une autres fois
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> revendrés  Se plus
+                              ouir vous en voulés    Et tandis je
+                              m'aviseray  D'a
+                              point conter si com songay <gap/> <gap/>  <gap/> <gap/> A chemin me mis sans targier <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>mençay a costoier  La mer tout selonc le rivaige  Mais pas ne fis moult
+                              gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t voiage  Que vi douce
+                              gens seigniés vous,    Vne laide beste que tous  Qui bien reguardee l'aroient  Jamés a seur ne seroient  Pour moy le di m'ame le crient  Toutes les fois qu'il m'en souvient  Celle beste estoit desguisee  Si laidement et figuree  Que du parler grand hide aroie  Se longuement vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> en parloie
+                                     Ordené ay que painturee  Elle soit ci et figuree  Afin que qui vouldra la voie  Aultrement chevir n'en pouroie  Ci parole l'aucteur co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>ment il vit
+                                          peschier  le diable en
+                                          celle mer et co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t heresie vint  a lui et
+                                          co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>ment il vainqui et avoit .i. cor  au col et pourtoit vn grant
+                                          troussiau de  de cordes pour prendre les pescheurs de
+                                          la  mer de ceste monde.
+                                          L'aucteur parle Tout voies tant vous en di  Que en la mer peschier
+                              le vi  Dedens avoit jeté ses hains
+                                     Et la ligne tenoit aus mains
+                                     .I. cor au col pendu avoit  Et un troussel de las portoit  Et avoit rois voulans tendues  Sus la mer au
+                              dessus des nues   Quant me vit venir a corner  Commença tantost et iupper  Et tendre en ma voie ses las  Af fin que n'eschapasse pas  Quant ie vi telle aprestement  Esbahi fu mout grandement  Car je vi bien se je passoie  Par li que tantost pris seroie  Doulx diex dis ie que ferai ie  Mal chemin truis ou yray ie  Jamais n'isterai de celle place  Se n'ay secours de
+                              <choice><expan>v<ex>ost</ex>r</expan><abbr>vr<am>̃</am></abbr></choice>e grace</p></body></text></TEI><TEI n="Paris_BnF_fr_1818"><text><body><p>   Aussi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> elle ot ce dit
+                                    <milestone unit="justification-findeligne" break="yes"/> Plus ne la vi
+                              do<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t pas <milestone unit="justification-findeligne" break="yes"/> ne rit  Mo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> cuer
+                              q<choice><expan><ex>u</ex>i</expan><abbr><am>ͥ</am></abbr></choice> dolent en estoit <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Mes faire plus
+                              il n'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> pou<milestone unit="justification-findeligne" break="no"/>oit  Toutevoies aller ma
+                                    voi<milestone unit="justification-findeligne" break="no"/>e  Si
+                              co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me <choice><expan>p<ex>ro</ex></expan><abbr><am>ꝓ</am></abbr></choice>posé l'avoie <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Je ne voul pas
+                                    entrelaiss<milestone unit="justification-findeligne" break="no"/>ier  Ains m'i
+                              voul des lors avo<milestone unit="justification-findeligne" break="no"/>ier  A memoire
+                              dis que venist <milestone unit="justification-findeligne" break="yes"/> Ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>s moi <choice><expan>et</expan><abbr><am></am></abbr></choice> que me suist <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice>
+                              mes armeures aportas<milestone unit="justification-findeligne" break="no"/>t  Et que nulles
+                              n'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> oubliast <milestone unit="justification-findeligne" break="yes"/> Elle voir le
+                              fist ainsi <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Tout aporta
+                              rien ne <choice><expan>p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>di <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et il en estoit
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt mestier<milestone unit="justification-findeligne" break="no"/>s   Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>r
+                              puis trouvai tant d'en<milestone unit="justification-findeligne" break="no"/>co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>briers  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> s'aucune
+                              fois n'eusse esté <milestone unit="justification-findeligne" break="yes"/> D'armes garni mort
+                              eusse <milestone unit="justification-findeligne" break="yes"/> esté
+                                     No<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>
+                              pas que touz jours les <milestone unit="justification-findeligne" break="yes"/> vestisse  A mes besoings ne les
+                                    pre<milestone unit="justification-findeligne" break="no"/>isse
+                                     Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>r mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>te fois par ma <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>esse
+                                    <milestone unit="justification-findeligne" break="yes"/> Coup de dart et de
+                              saete <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Soufri que souffert
+                              pas n'e<milestone unit="justification-findeligne" break="no"/>usse  Se bien armé esté
+                              eusse <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Or vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> ai dit tout
+                              sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>z me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ç<milestone unit="justification-findeligne" break="no"/>o<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ge  Une <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>tie de
+                              mo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> songe <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Le remena<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> conterai <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Ci apréz
+                              q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt te<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>ps en arai <milestone unit="justification-findeligne" break="yes"/> Et vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice>
+                              plus volentiers l'or<milestone unit="justification-findeligne" break="no"/>rez  Qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t .I. pou
+                              reposez serez <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Sanz entreval
+                              trestout e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice><milestone unit="justification-findeligne" break="no"/>nuie  Et le biau te<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>ps
+                              <choice><expan>et</expan><abbr><am></am></abbr></choice> cil de plui<milestone unit="justification-findeligne" break="no"/>e  Une autre fois vous
+                                    reve<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice><milestone unit="justification-findeligne" break="no"/>rés  Se plus ouir vous en
+                                    vo<milestone unit="justification-findeligne" break="no"/>ulez
+                                     Et tandis je
+                              m'aviserai <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> D'a poi<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              conter si co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> songei <milestone unit="justification-findeligne" break="yes"/>   A chemin me mis
+                              sans targi<milestone unit="justification-findeligne" break="no"/>er
+                                     Et
+                              co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>mençai a costoier <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> La mer . tout
+                              selonc le riva<milestone unit="justification-findeligne" break="no"/>ge  Mais pas
+                              ne fis mo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt voia<milestone unit="justification-findeligne" break="no"/>ge  Que vi douce gent
+                              seigniés <milestone unit="justification-findeligne" break="yes"/>vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> Vne laide beste que
+                              touz <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Qui bien
+                              regardee l'aroient <milestone unit="justification-findeligne" break="yes"/> Jamais a seur
+                              ne seroient <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Pour moi le di
+                              m'ame le crie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice><milestone unit="justification-findeligne" break="no"/>t  Toutes les fois
+                              q<choice><expan><ex>u'</ex>i</expan><abbr><am>ͥ</am></abbr></choice>l l'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> souvie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice><milestone unit="justification-findeligne" break="no"/>t  Celle beste estoit
+                              desguisee <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Si
+                              laideme<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t et figuree <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Que du
+                              <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>ler g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt hide aroie <milestone unit="justification-findeligne" break="yes"/> Se
+                              longueme<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t vous en <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>loi<milestone unit="justification-findeligne" break="no"/>e  Ordené ai que
+                              painturee <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Elle soit ici
+                              et figuree <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Afin que
+                              q<choice><expan><ex>u</ex>i</expan><abbr><am>ͥ</am></abbr></choice> voudra la voie <milestone unit="justification-findeligne" break="yes"/> Autreme<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t chevir n'en saroi<milestone unit="justification-findeligne" break="no"/>e   Toutevoies tant vous en d<milestone unit="justification-findeligne" break="no"/>i  Que en la mer
+                              peschier le vi <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Dedens avoit
+                              geté ses ains <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et la ligne
+                              tenoit aus mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s <milestone unit="justification-findeligne" break="yes"/> Un cor au col
+                              pendu avoit <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et .i. troussel
+                              de las portoit <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et rois volans
+                              avoit te<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>due <milestone unit="justification-findeligne" break="yes"/>s  Sus la mer au
+                              dessous des n<milestone unit="justification-findeligne" break="no"/>ues  Qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t venir me vit a corner <milestone unit="justification-findeligne" break="yes"/> Co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ça tantost et iuper <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> A tendre en ma
+                              voie ses las <milestone unit="justification-findeligne" break="yes"/> A fin que
+                              n'eschapasse pas <milestone unit="justification-findeligne" break="yes"/> Qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t ie vi tel aprestement
+                                    <milestone unit="justification-findeligne" break="yes"/> Esbahi fu
+                              mo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>ndement <milestone unit="justification-findeligne" break="yes"/> Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>r je vi que se passoie <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Par li .
+                              tantost pris ie seroie <milestone unit="justification-findeligne" break="yes"/> Douz diex dis
+                              je que ferai ie <milestone unit="justification-findeligne" break="yes"/> Mal
+                              chemi<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> truis ou irai ie <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Jamais
+                              n'istrai de ceste plac<milestone unit="justification-findeligne" break="no"/>e  Se n'ai secours de
+                              vostre g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>c<milestone unit="justification-findeligne" break="no"/>e</p></body></text></TEI><TEI n="Bruxelles_KBR_1127-29"><text><body><p>   Aussi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>e elle ot ce
+                                    dit<space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Plus ne la vit dont
+                              pas ne rit <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Mon cuer qui dolent
+                              en estoit <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Mais rien plus
+                              fe<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice> n'en pouoit <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Touteffois m'en
+                              allé ma voye <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Si co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me <choice><expan>p<ex>ro</ex></expan><abbr><am>ꝓ</am></abbr></choice>posé
+                              l'avoye <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Ne la vueil pas
+                              entrelaissier <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/>  Mais dés or m'i vueil avoier
+                                     A memoire dis que venist  Aprés moy <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> que me suist  Et que mes armees aportast  Si ques nulles n'en n'obliast  Et elle voir si fist ainsi  Tout apporta riens n'en <choice><expan>p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>di
+                                     Et il en estoit grant mestier
+                                     Car puis trouvay tant
+                              d'encombrier  Que se aucune fois
+                              n'eusse esté  D'armes garnis mors eusse esté  Non
+                              pas que tousjours les vestisse  A mes besoings ne les
+                              preisse  Car par
+                              mainteffois par peresce  En maint cop
+                              <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> mainte destresse  Souffry que point souffert n'eusse  Se de mes armes armé feusse  Or vous ay dit tout sanz mensonge  Une partie de mon
+                              songe  Le remenant vous conteray  Cy aprés quant temps en aray  Et vous plus
+                              voulent<choice><expan><ex>er</ex></expan><abbr><am>͛</am></abbr></choice>s l'orrés  Quant un po reposez serés  Senz
+                              entrevalle tost e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>nuye  Et le
+                              bel temps <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> cil despluie Et une ault<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice> fois
+                              vous revendrés  Se vous plus ouyr en
+                              voulez  Et tandis je m'aviseray  D'a point compter si com
+                              songay</p></body></text></TEI><TEI n="Bruxelles_KBR_10176-78"><text><body><p>  <gap/> <gap/> Aussi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me ot ce dit .
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Plus ne la vi
+                              do<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t pas ne rist<milestone unit="justification-findeligne" break="yes"/> .  Mon cuer qui
+                              dolent en estoit . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Mes rie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s plus faire n'en
+                              pouoit . <milestone unit="justification-findeligne" break="yes"/> Touteffois m'en alai ma voie .
+                                    <milestone unit="justification-findeligne" break="yes"/> Si co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me <choice><expan>p<ex>ro</ex></expan><abbr><am>ꝓ</am></abbr></choice>posé
+                              l'avoie . <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Ne la vueil pas entrelesser . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Mes dés lors m'y vueil avoier .
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> A memoire dis <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> venist .
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>s moi et
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> me suiist . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> mes armes aportast .
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Si <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> nulle n'en obliast .
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et elle voir le fist ai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ssi .
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Tout aporta riens ne perdi . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et il en estoit gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              mestiers . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Car puis trouvy
+                              gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t enco<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>brier<milestone unit="justification-findeligne" break="yes"/> Que s'aucune fois n'eusse esté .
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> D'armes garni mort eusse esté .
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Non pas <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> tous
+                              jo<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice>s les vestisse . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> A mes besoi<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>gs et les preisse
+                              . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Car mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>te fois <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>
+                              ma <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>esse . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Oy mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s cops
+                              <choice><expan>et</expan><abbr><am></am></abbr></choice> mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>te destresse . <milestone unit="justification-findeligne" break="yes"/> Souffri <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> poi<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              soufert n'eusse . <milestone unit="justification-findeligne" break="yes"/> Se de mes armes armé feusse .
+                                    <milestone unit="justification-findeligne" break="yes"/>   Or vous ai dit to<choice><expan><ex>u</ex></expan><abbr><am>̃</am></abbr></choice>t sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s
+                                    meço<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ge<milestone unit="justification-findeligne" break="no"/> Une <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>tie
+                              de mo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> songe . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Le remai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>gne<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> co<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>terai . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Cy ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>s qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              temps en arai . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et vous plus vole<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tiers l'orrés
+                              . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t .I. pou reposés serés .
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s entrevalle tost ennuie .
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Le beau
+                              te<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>ps et cil de la pluie . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et une autrefois
+                              revendrés . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Se vous plus oyr en voulés . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et tandis je m'aviserai . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> D'a poi<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              co<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ter si co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> songai . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/>  <gap/> <gap/> A chemin me mis sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s tergier
+                              . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>mençai a costoier .
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> La mer tout selo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> le rivage .
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Mes pas ne fis <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice>
+                              gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t voiage . <milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> vi douce gent seignés
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Vne laide beste <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> tous .
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> bien regardee l'aroient
+                              . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Ja mes aseur ne
+                              seroient . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Po<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice> moi le di m'ame le
+                              crient . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Toutes les fois qu'il l'en
+                                    souvient<milestone unit="justification-findeligne" break="yes"/> Celle beste estoit
+                              desguisee . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Si laidement et figuree . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> du <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>ler
+                              grand hyde<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice> aroie . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Ce longuem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t vous en
+                              <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>loie . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Ordené ai <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> painturee .
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Elle soit cy et figuree . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Afin que qui vouldra la voie . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Autrem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t chevir n'en porroie
+                              . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Cy <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>le
+                              l'acte<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice> co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>m<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t il vit pesschier
+                                    le<milestone unit="justification-findeligne" break="yes"/> deable en celle mer <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice>
+                              co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>m<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t heresie <milestone unit="justification-findeligne" break="yes"/> vingt ali et devise
+                              co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>m<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t le vainq<milestone unit="justification-findeligne" break="no"/>ui    Toutes voies ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t en
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> di . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> en la
+                              mer peschier le vi . <milestone unit="justification-findeligne" break="yes"/> Dedens avoit geté ses ains . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et la ligne tenoit es mains . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> .I. cor au col pendu avoit . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et .I. trossel de les portoit . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et avoit rois voula<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s tendues
+                              . <milestone unit="justification-findeligne" break="yes"/> Sus la mer au dessoubs des
+                                    nues<milestone unit="justification-findeligne" break="yes"/> .
+                                     Qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t me vit venir
+                              acorner . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ça
+                              ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tost et . iuper . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et te<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>dre en ma voie ses las
+                              . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> A fin <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> n'eschapasse pas
+                              . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t ie vi tel
+                              aprestem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Esbahi fu <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice>
+                              gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>dament . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/>  Car je vi bien
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> si passoie . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> li <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> tantost
+                              p<choice><expan><ex>r</ex>i</expan><abbr><am>ͥ</am></abbr></choice>s ie seroie . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Doulz dieu dis ie <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> ferai
+                              ie . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Mal chemin truis ou
+                              irai ie . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Ja mes n'istrai de ceste place .
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Se n'ai secours de <choice><expan>v<ex>ost</ex>r</expan><abbr>vr<am>̃</am></abbr></choice>e
+                              grace . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/></p></body></text></TEI><TEI n="Bruxelles_KBR_18292-93"><text><body><p>   Aussy tost
+                              co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>e elle ot ce dit  Plus ne la vis
+                              dont pas nen ris   Mon cuer qui
+                              dolant en estoit  Mais il plus faire nen poioit <space rend="8UR"/> outevoie a aller ma voie  <space rend="blanc"/>Si co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me pourposey l'avoie  Je ne vos pas
+                              entrelaissier  Ains m'y volz dez lors avoier  A memoire dis qu'i
+                              venist  Aprez
+                              moy <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> qu'i me suist  Et <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice>
+                              mez armez m'apourtaist  Et <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice>
+                              nullez riens n'en obliaist  Et elle voir le
+                              fist ensi  Tout apo<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice>rtait riens n'y <choice><expan>p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>dit  Et il en estoit
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt mestier  Car puis trovay
+                              ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t d'encombrier  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> se
+                              aulcune fois n'eusse estey  D'armez garnis
+                              mort heusse estey  Non pas
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> to<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice>jo<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice>s lez vestissez  A mez besoing
+                              <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> lez prenissez  Car
+                              mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>teffois <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> ma peresse  Cop de dars
+                              <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> de saiettez  Souffris
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> souffer pas n'eusse  Se <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice>
+                              armey estei heusse  Or vous ay dit
+                              tout sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>songe  Une partie de mon
+                              songe  Le
+                              remenant vous compteray  Cy
+                              ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>s q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt temps en auray  Et vous plus
+                              volent<choice><expan><ex>iers</ex></expan><abbr><am>͛</am></abbr></choice> l'orez  Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt
+                              ung poc resposey serez  Sans
+                              ent<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>val t<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>stout anuye  Et le bel te<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>ps
+                              <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> cilz de pluie  Une
+                              ault<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice> fois vous revanréz    Si vous plus oyr en voulez  Et cy aprés m'aviseray  De <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice>
+                              compt<choice><expan><ex>er</ex></expan><abbr><am>͛</am></abbr></choice> si co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me je songay    Au chemin me mis sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s targier
+                                     Et comensay a costoier  La mer tout selonc le rivaige  Mais pas ne fis trop
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt voiaige  Que vis
+                              doulcez ge<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s signiez vous,  Vne laide beste que tous  Que bien
+                              resgardee l'auroient  Jamais asseur
+                              ne seroient  Po<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice> moy le
+                              dis car je le crien  Toutez lez fois
+                              qu'il m'en souvient  Celle estoit
+                              desguisee  Sy laidement et figuree
+                                     Que nez du <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>ler
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt hide auroie  Se longement vous en
+                              parloie  Ordo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ney ay que
+                              pointuree  Elle soit cy et figuree
+                                     Affin que qui volrait la voie
+                                     Ault<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>ment
+                              chevir n'en sauroie  Toutevoie tant
+                              vous en dis  Que en la mer peschier
+                              le vis  Dedans avoit gettez sez ains
+                                     Et la ligne tenoit aus
+                              mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s  Ung cor au col pendu
+                              avoit  Et ung troussel de las
+                              po<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice>toit  Et rois volant
+                              avoit tendue  Sur la mer aus dessur
+                              dez nueez   Qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t me vit venir au corner  Come<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>sait tantost
+                              <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> iuper  A tandre en ma voie sez lais  Affin
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> n'eschappasse pas  Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt ie vi tel apprestement  Esbahis fus moult grandem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t  Car <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice><choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice> vis <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> se passoie  <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> ly <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> retenus
+                              seroie  Doulz dieu dy ie que feray ie
+                                     Jamais n'isseray de ceste
+                              plaice  Se n'a secour de vostre
+                              grace</p></body></text></TEI><TEI n="Bruxelles_KBR_II_7844"><text><body><p>  <gap/> <gap/> Aussi tost com elle eust ce dit
+                                    <milestone unit="justification-findeligne" break="yes"/> Plus ne la vy dont
+                              pas ne rit  Mon cuer / qui dollent en
+                              estoit  Mais <add place="superscript"><choice><expan>b<ex>air</ex>e</expan><abbr>bn<am>̃</am></abbr></choice></add> plus
+                              il ne pouoit  Touteffoys aller ma
+                              voye  Si co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me proposé
+                              l'avoye  Je ne voulz entrelaisser  Et je me voulz des lors avoyer  A memoyre dis que venist  Aprés moy et me suyvist    Que mes
+                              armeures aportast  Et que nulle n'en
+                              obliast  Et elle
+                              tout le fist ainssi  Tout aporta rien ne
+                              perdy  Et il en
+                              estoit grant mestier  Car puys trouvé
+                              ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t d'encombrier  Que s'aucune foys
+                              n'eusse esté  D'arme garny mort eusse esté  No<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> pas que
+                              tousjours les vestisse  A mes besoingz ne
+                              les preisse  Car mainteffoys par ma paresse  Coup de dard et de
+                              sajecte  Souffry que pas souffert n'eusse  Et bien armé esté
+                              eusse <space rend="1UR"/> Or vous ay dit tout sans
+                              me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ssonge  Une partie de mon songe  Le remenant vous
+                              compteré  Cy
+                              aprés quant temps en aré  Et vous plus
+                              voluntiers l'orrez  Quant ung peu
+                              reposé serez  Sans int<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>val trestout ennuye  Soyet le beau
+                              temps ou la pluye  Une
+                              ault<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice> foys si revenez  Se plus ouyr vous
+                              en volez  Et
+                              tandis je m'aviseré   D'a point
+                              compter ce que songé    A chemin me mys sans targer  Et commençay a coustouyer  La mer / tout celon le rivaige  Mais pas ne fis moult grant
+                              voyaige  Que vy doulce gens seignés
+                              vous,  Vne laide beste que tous  Qui bien regardee l'auroient  Jamais asseur ilz ne seroyent  Pour moy le dy m'ame la craintz
+                                     Toutes les fois qu'il l'en
+                              souvient  Ceste beste estoit deguisee
+                                     Si laidement et figuree  Que du parler grant hyde auroye
+                                     Se longuement vous en parloye
+                                     Ordonné ay que paincturee  Elle soit cy et figuree  Affin que qui vouldra la voye  Aultrement chevir n'en sauroye <space rend="12UR"/>  Touteffois tant vous en diz  Que en la mer pescher
+                              le vy  Dedens avoit gecté ses ains  De la ligne tenoit aulx mains  Ung cor au coul pendu avoit  Et ung troussel de las portoit  Et rais vollans avoit tandues  Sur la mer audessoubz des nues  Quant venir me vit a corner  Commança tantost
+                              et piper  A tendre
+                              en ma voye ses las  Affin que n'eschapasse pas  Quant
+                              ie vy tel aprestement  Esbaïz fu
+                              moult grandement  Car je vy bien que
+                              se passoye  Par la tantost pris ie
+                              seroye  Doulx Dieu dis ie que feray
+                              ie  Mal chemin tenis ou yraiz ie  Jamais n'ystray de ceste place  Se n'ay secours
+                              de <choice><expan>v<ex>ost</ex>r</expan><abbr>vr<am>̃</am></abbr></choice>e grace</p></body></text></TEI><TEI n="Leiden_BdR_BPL_0074"><text><body><p>   Ausi tost <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>me elle ot ce
+                                    dit<milestone unit="justification-findeligne" break="yes"/> Plus ne la vi
+                              do<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t pas ne ri<milestone unit="justification-findeligne" break="no"/>st  Mon cuer qui
+                              dole<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t en estoit <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Mes faire plus ne poroit <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Toutesvoies aler ma voie <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Si <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>me proposé l'avoie
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/>  Je ne voul pas
+                              entrelaissier  Ains m'y voul des lors
+                              avoier  A memoire dist que venist  Aprés moy <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> que me suist
+                                     Que mes armures aportast  Et quen nulles n'en obliast  Elle voir le fist ainsi  Tout aporta rien ne perdi  Et il en estoit grant mestiers  Quar puis trouvay ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              d'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>combriez  Que s'aucune
+                              fois n'eusse esté  D'armes garni mort
+                              eusse esté  Non pas tous jours les
+                              vestisse  A mes besoings ne les
+                              preisse  Quar mainte fois par ma
+                              parece  Cops de dars <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> de
+                              saete  Souffri que souffert pas
+                              n'eusse  Se bien
+                              armé esté eusse  Or vous ai dit tout sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s
+                              me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>çonge  Une partie de mon songe  Le remanant
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> conterai  Ci
+                              ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>s qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t temps en aray  Et vous plus volentiers
+                              l'orrés  Qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t un po reposés
+                              serés  Sans
+                              entreval trestout ennuie  Et le beau temps
+                              <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> cil de pluie  Une autre fois vous
+                              revenrés  Se plus
+                              ouuir vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> en voulés  Et a tandis je
+                              m'aviserai  D'a point conter <add place="superscript">si</add><choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>me songei    A chemin me mis sans tar<milestone unit="justification-findeligne" break="no"/>gier  Et commençai a costoier <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> La mer tout selonc le
+                                    rivage<milestone unit="justification-findeligne" break="yes"/> Mes pas ne fis mout gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                                    voia<milestone unit="justification-findeligne" break="no"/>ge
+                                     Que vi / douce gent seigniés
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> Une laide beste que
+                              tous <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Qui bien regardee l'aroient <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Jamais a seur ne
+                              seroient <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Pour moy le di m'ame le
+                                    crie<milestone unit="justification-findeligne" break="no"/>nt
+                                     Toute <add place="superscript">s</add> les fois qu'i l'en souvient <milestone unit="justification-findeligne" break="yes"/> Celle beste estoit deguisee <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Si laideme<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t est figuree
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Que du parler
+                              gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> hyd<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice> aroi<milestone unit="justification-findeligne" break="no"/>e  Se longueme<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> en parloie<milestone unit="justification-findeligne" break="yes"/> Ordené ai que
+                              painturee <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/>  Elle soit ci <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> figuree
+                                    <space rend="très grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Afin que qui vouldra la voie <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Autrement chevir
+                              n'en saroie<milestone unit="justification-findeligne" break="yes"/> Toutevoies ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t vous en di
+                                    <milestone unit="justification-findeligne" break="yes"/> Que en la mer
+                              peschier le vi<milestone unit="justification-findeligne" break="yes"/> Dedens avoit geté ses ains <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et la ligne tenoit aus mains<milestone unit="justification-findeligne" break="yes"/> Un cor au col pendu avoit <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et un troussel de las portoit <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et rois volans avoit tendues
+                                    <milestone unit="justification-findeligne" break="yes"/> Sus la mer au dessous des
+                                    nu<milestone unit="justification-findeligne" break="no"/>es  Qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t venir me vit a
+                              corner <space rend="tout petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Commença tantost et piper<milestone unit="justification-findeligne" break="yes"/> A tendre a ma voie
+                              ses las <milestone unit="justification-findeligne" break="yes"/> A fin que je n'eschapasse
+                                    pas<milestone unit="justification-findeligne" break="yes"/> Quant je vi tel
+                              ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>steme<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Esbahi fu mout
+                                    grandeme<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t<milestone unit="justification-findeligne" break="yes"/> Quar je vi bien se
+                              je passoie<milestone unit="justification-findeligne" break="yes"/> Par li tantost
+                              pris ie seroie<milestone unit="justification-findeligne" break="yes"/> Dous diex dis je
+                              que ferai je<milestone unit="justification-findeligne" break="yes"/> Mal chemin truis ou irai
+                                    je<milestone unit="justification-findeligne" break="yes"/> Jamais n'istrai de
+                              ceste place<milestone unit="justification-findeligne" break="yes"/> Se n'ai secours de
+                              <choice><expan>v<ex>ost</ex>r</expan><abbr>vr<am>̃</am></abbr></choice>e grace <space rend="tout petit blanc"/><milestone unit="justification-findeligne" break="yes"/></p></body></text></TEI><TEI n="London_BL_Addit_22937"><text><body><p>  <gap/> <gap/> Aussi tost comme elle ot ce dit
+                                    <milestone unit="justification-findeligne" break="yes"/> Point ne la vis
+                              dont pas ne rit  Mon cuer qui dolent en estoit  Mais faire plus il n'en
+                              pouoit  Toutesvoies aler ma voie  Si comme proposé l'avoie  Je ne vueil pas entrelaissier  Ains m'y voulz deslors avoyer  A memoire dis qu'il venist  Aprés moi et que me suist  Que mes armeures aportast  Et que nulles n'en oubliast  Elle voir le fist ainsi  Tout aporta rien ne perdi  Et il en estoit grant mestiers  Quar puis trouvai grans
+                              enco<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>briers  Que s'aulcune
+                              fois n'eusse esté  D'armes garny mort
+                              eusse esté  Non pas que tousjours les
+                              vestisse  A mes besoings ne ne
+                              preisse  Quar mainteffois par ma
+                              paresse  Coup de dart et de saete    Souffris que point
+                              souffert n'eusse  Se de mes armes armé esté eusse  Or vous ai dit tout sans mansonge  Une partie de mon
+                              songe  Le
+                              remenant vous conterai  Cy aprés quant temps en
+                              avrai  Et vous
+                              plus volentiers l'orrés  Quant ung pou
+                              reposé serés  Sans entreval trestout ennuye  Et le beau temps
+                              et cil de pluie  Une aultre fois
+                              vous revenrés  Se plus ouyr vous en voulez  Et temps dis je
+                              m'adviserai  D'a point conter si com songeai <gap/> <gap/>  <gap/> <gap/> A chemin me
+                              mis sans targer <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et commençai
+                              a coustoier    La mer tout selonc le rivaige  Mais pas ne fis moult grant voiaige
+                                     Que vi doulces gens seignez
+                              vous,  Vne laide beste que tous  Ceulz qui bien regardee l'aroient
+                                     Jamais asseur ne seroient  Pour moi le dis m'ame le crient  Toutes les fois qu'i m'en souvient
+                                     Celle beste estoit deguisee  Si laidement et figuree  Que du parler grant hideur aroie  Se longuement vous en parloie  Ordonné ai que painturee Co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>ment Elle soit cy et
+                              figuree l'acteur Afin qui vouldra
+                              la voie vit sur le Aultrement cheviroi n'en saroie riuaige de la mer vne si cruelle beste qui auoit  te<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>duz ses filez sus la mer et vne ligne a  pescher tenoit . vng cornee au col auoit  et vng
+                                          trousseau de las portoit . sacha<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> testoit Toutevoies tant vous en dy  Que en la mer peschier
+                              le vi  Dedans avoit
+                              gecté ses ains  Et la ligne tenoit
+                              aux mains  Ung cor au col pendu avoit
+                                     Et ung troussel de las portoit
+                                     Et avoit retz volans tenduez
+                                     Sur la mer au dessoubz des
+                              nuez  Quant venir me vit a corner  Commença tantost et viper  A tendre en ma voie ses las  Af fin que n'eschapasse pas  Quant ie vi tel apprestement  Esbahy fu moult grandement  Quar je vi bien que se passoie  Par lui tantost pris seroie  Doulz dieu dis ie que ferai ie  Mal chemin truis ou yrai ie  Jamais n'istrai de ceste place  Se n'ai secours de vostre grace <gap/> <gap/></p></body></text></TEI><TEI n="Lyon_BM_768"><text><body><p>  <gap/> <gap/> ussi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> ellot ce dit peregrin<milestone unit="justification-findeligne" break="yes"/> <space rend="blanc"/>Pl<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> ne la vi . do<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> pas ne
+                              rist parle<milestone unit="justification-findeligne" break="yes"/>   Mon cuer q<choice><expan><ex>u</ex>i</expan><abbr><am>ͥ</am></abbr></choice> dole<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              en estoit <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Mes faire pl<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> il
+                              n'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> pouoit <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Toute vois . en alant ma voie <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Si com <choice><expan>p<ex>ro</ex></expan><abbr><am>ꝓ</am></abbr></choice>posé l'avoie <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Ge ne vox pas entrelessier <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Ains m'i vox des lors avoier <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/>  memoire dis que venist <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>s moy
+                              <choice><expan>et</expan><abbr><am></am></abbr></choice> me suivist <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> mes armeures aportast
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et que nulles n'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> obliast
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et elle voir le fist ensist <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Tout apporta rie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> ne<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>
+                              perdit <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et il en estoit <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice>
+                              mestiers <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>r puis trovai
+                              mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>comb<choice><expan><ex>r</ex>i</expan><abbr><am>ͥ</am></abbr></choice>er<milestone unit="justification-findeligne" break="no"/>s  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> s'aucu<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>e foiz
+                              n'eusse esté <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> D'armes garni mort eusse
+                                    esté<milestone unit="justification-findeligne" break="yes"/> No<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> pas <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> touz
+                              jo<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice>s les vestisse <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> A mes besoings . ne les
+                              p<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>nisse <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>r mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>te foiz
+                              <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> ma paresce <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Maint coup de dart
+                              <choice><expan>et</expan><abbr><am></am></abbr></choice> de siete <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Souffri . <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice>
+                              mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tenu pas n'eusse <milestone unit="justification-findeligne" break="yes"/> Se <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice> armé esté ge eusse
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Or vous ai dit tout sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s
+                              m<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>ço<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ge <milestone unit="justification-findeligne" break="yes"/> Une <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>tie de mon songe l'auto<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice><milestone unit="justification-findeligne" break="yes"/> Le remaigna<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice>
+                              co<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>terai <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Ci ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>s
+                              q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt temps en arai <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> plus
+                              vole<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tiers l'orrez <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt un poi repousez
+                              serez <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Sous entravail sove<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>nuie <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Si fait le beau te<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>ps
+                              <choice><expan>et</expan><abbr><am></am></abbr></choice> la pluie <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Une autre foiz vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice>
+                              revendrés <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Si plus oïr vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> en voulez
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et tant dis ge m'aviserai . Ci a<milestone unit="justification-findeligne" break="yes"/> De mielx cont<choice><expan><ex>er</ex></expan><abbr><am>͛</am></abbr></choice> si
+                              co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> sonjay chiev<milestone unit="justification-findeligne" break="no"/>e<gap/> <gap/>  <gap/> <gap/> A chemi<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> me mis sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s
+                              tarder <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>mençai a coustoier
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> La mer en alant le rivage <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Mes pas ne fis <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice>
+                              .<choice><expan>g<ex>rant</ex></expan><abbr>g<am>͛</am></abbr></choice>. voiage<milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> vi bo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>e
+                              ge<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s saignez vous <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Vne laide beste . <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> touz
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Q<choice><expan><ex>u</ex>i</expan><abbr><am>ͥ</am></abbr></choice><choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice>
+                              regardee l'avroient <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Jamés asseur ne seroie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Po<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice> moi le di m'ame la
+                                    craient<milestone unit="justification-findeligne" break="yes"/> Toutes les foiz q<choice><expan><ex>u</ex>i</expan><abbr><am>ͥ</am></abbr></choice>l
+                              m'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> sovient <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Celle beste estoit desguisee <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et si laidem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t figuree
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> du parler .
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt paour aroie <milestone unit="justification-findeligne" break="yes"/> Si longuem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice>
+                              en parloie <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Ordrené ai <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> painturee
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Elle soit ci . et figuree <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Affin <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> qui voudra la
+                              voie <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Autrem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t chevir n'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>
+                              saroie <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Toutevoies ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> en di <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice>n la
+                              m<choice><expan><ex>er</ex></expan><abbr><am>͛</am></abbr></choice> pescher la vi <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Deda<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s avoit geté ses ains
+                                    <milestone unit="justification-findeligne" break="yes"/> Et la ligne tenoit aux
+                                    mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice><milestone unit="justification-findeligne" break="no"/>s  Un cor au coul
+                              pe<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>du avoit <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et i troussel de laz portoit
+                                    <milestone unit="justification-findeligne" break="yes"/> Et raiz vola<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s avoit tendues
+                                    <milestone unit="justification-findeligne" break="yes"/> Sur la m<choice><expan><ex>er</ex></expan><abbr><am>͛</am></abbr></choice> audessus
+                              des nues <milestone unit="justification-findeligne" break="yes"/> Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt me vit venir a
+                              corner <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Comença tantost <choice><expan>et</expan><abbr><am></am></abbr></choice>
+                              iuper <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et tend<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice> en ma voie
+                              ses las <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Affin <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> n'eschapasse pas
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt ge vi tel
+                              aprestem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/>   Esbahi fu moult
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>ndem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et ge vi <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice><choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice>
+                              si passoie <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Par li . tantost pris ge seroie
+                                    <milestone unit="justification-findeligne" break="yes"/> Doulx dieu dis ge . <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> ferai
+                              ge <milestone unit="justification-findeligne" break="yes"/> Mal chemi<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> truis ou irai ge
+                                    <milestone unit="justification-findeligne" break="yes"/> Jamés n'istrai de ceste place
+                                    <milestone unit="justification-findeligne" break="yes"/> Se n'ai secours . de <choice><expan>v<ex>ost</ex>r</expan><abbr>vr<am>̃</am></abbr></choice>e
+                              grace <milestone unit="justification-findeligne" break="yes"/><gap/> <gap/></p></body></text></TEI><TEI n="Manchester_John-Rylands-Library_fr_2"><text><body><p>  <gap/> <gap/> Aussi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me ot ce dit
+                                    <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Plus ne la vy /
+                              dont pas ne rit <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Mon cuer qui
+                              dolent en estoit <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Mais plus
+                              faire il n'en pouoit / <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Touteffoiz a
+                              aler ma voye <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Si
+                              co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me pourpensé l'avoie <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Je ne voulz
+                              pas entrelaissier <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Ains me volz
+                              des lors avoier <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> A memoire dis que
+                              venist <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Aprés moy et
+                              que me suivist <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Que mes
+                              armeures aportast <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Et que nulle
+                              rien ne laissast <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Et elle voir
+                              le fist ainsi <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Tout aporta
+                              rien ne perdy <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Et il en
+                              estoit grant mestier <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Car puis
+                              trouvay tant d'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>combrier <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Que
+                              s'aucunneffoiz n'eusses esté <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Armé tout
+                              mort j'eusse esté <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/>   Non pas que tousjours les vestisse
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> A mon besoing ne ne preisse <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Car mainteffoiz par ma peresse <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Coups de dars et de saiecte <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Souffry / que pas souffert n'eusse
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Se bien armé esté
+                              je eusse <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Or vous ay dit tout sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s
+                              me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>çonge <milestone unit="justification-findeligne" break="yes"/> Une partie de mon
+                              songe <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Le remenant vous
+                              compteray <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Cy aprés quant temps en auray <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et vous plus voulentiers l'orrez
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Quant un pou reposez serez <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Sans entreval trestout
+                              e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>nuie <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et le beau temps et cil de pluie
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Une autre fois / vous revendréz
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Se plus ouir vous en voulez <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Et tandiz je m'aviseray <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> D'a point compter si com je sçay
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/><gap/> <gap/></p></body></text></TEI><TEI n="Muenchen_BSB_gall_30"><text><body><p>  <gap/> <gap/> Aussi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>e elle ot ce dit
+                                    <milestone unit="justification-findeligne" break="yes"/> Plus ne la vi .
+                              dont pas ne rist <milestone unit="justification-findeligne" break="yes"/> Mon cuer . qui dolent en estoit
+                                    <milestone unit="justification-findeligne" break="yes"/>   Mes faire plus il
+                              n'en pouoit <milestone unit="justification-findeligne" break="yes"/> Toutevoies alee ma
+                              voie <milestone unit="justification-findeligne" break="yes"/> Si co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>e
+                              <choice><expan>p<ex>ro</ex></expan><abbr><am>ꝓ</am></abbr></choice>posé l'avoie  Je ne voul pas
+                              entrelessier  Ainz
+                              m'i voul des lors avoier  A memoire dis
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> venist  Ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>s moi <choice><expan>et</expan><abbr><am></am></abbr></choice><choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> me
+                              suist  Et mes armeures
+                              aportast  <choice><expan>et</expan><abbr><am></am></abbr></choice><choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> nulles n'en oubliast  Elle voir le fist ainsi
+                                     Tout aporta
+                              rien n'en <choice><expan>p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>di  Et il en estoit
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt mestiers  Car puis
+                              trouvai tant d'en<choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>briers  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> s'aucune foiz n'eusse esté  D'armes garni . mort eusse esté  Non pas <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> touzjourz
+                              les vestisse  A mes besoings ne les
+                              p<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>isse  Car mainte
+                              foiz <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> ma perece  Maint
+                              cop de dart et de saiete  Souffri .
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> souff<choice><expan><ex>er</ex></expan><abbr><am>͛</am></abbr></choice>t pas n'eusse  Se <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice> armé
+                              esté eusse  Or vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> ai dit tout
+                              sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>z mensonge  Une <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>tie de
+                              mon songe  Le
+                              remanant vouz cont<choice><expan><ex>er</ex></expan><abbr><am>͛</am></abbr></choice>ai  Ci ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>z
+                              q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt temps en arai  <choice><expan>et</expan><abbr><am></am></abbr></choice>
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> plus volentiers l'orrés  Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt .I. pou reposé serés
+                                      Sanz entreval
+                              trestout ennuie  <choice><expan>et</expan><abbr><am></am></abbr></choice> le biau tempz <choice><expan>et</expan><abbr><am></am></abbr></choice> cil de pluie
+                                     Une autre foiz vouz revenrés  Se plus ouir vouz en voulés  <choice><expan>et</expan><abbr><am></am></abbr></choice> tandis je
+                              m'aviserai  D'a
+                              point cont<choice><expan><ex>er</ex></expan><abbr><am>͛</am></abbr></choice> si com songai <gap/>   A chemin me mis sanz targier <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>mençai a costoier  La mer tout selonc le rivage  Mes pas ne fis mout
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt voiage  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> vi douce gent seingniez vous,  Vne laide beste <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice>
+                              to<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> Qui <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice>
+                              regardee l'aroient  Jamais a seur ne seroient  P<choice><expan><ex>our</ex></expan><abbr><am>᷑</am></abbr></choice> moi le
+                              di m'ame le crient  Toutes les fois
+                              qu'i l'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> souvient  Celle
+                              beste estoit deguisee  Si laidement
+                              <choice><expan>et</expan><abbr><am></am></abbr></choice> figuree  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> du <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>ler grant hide aroie  Se longuement vous en <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>loie
+                                     Ordené ai <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice>
+                              painturee  Elle soit ici
+                              <choice><expan>et</expan><abbr><am></am></abbr></choice> figuree  Afin
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> qui voudra la voie  Autrem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t chevir n'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> saroie   Toutevoies tant vous en di  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> en la mer peschier le vi
+                                     Dede<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>z avoit geté ses
+                              ains  <choice><expan>et</expan><abbr><am></am></abbr></choice> la ligne
+                              tenoit auz mains  I cor au col pendu
+                              avoit  <choice><expan>et</expan><abbr><am></am></abbr></choice> i troussel
+                              de laz portoit  <choice><expan>et</expan><abbr><am></am></abbr></choice>
+                              rois volant avoit tendues  Sur la mer
+                              au dessous des nues  Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt venir me vit a corner  Comença tantost <choice><expan>et</expan><abbr><am></am></abbr></choice>
+                              juper  A tendre en ma voie ses las
+                                     A fin <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice>
+                              n'eschapasse pas  Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt
+                              je vi tel ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>stement  Esbahi fu <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice>
+                              grandem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t  Car je vi
+                              <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice> que se passoie  <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> li tantost pris ie seroie  Doux diex dis ie <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> ferai ie
+                                     Mal chemin truis ou irai ie
+                                     Jamais n'istrai de ceste
+                              place  Se n'ai secours de
+                              <choice><expan>v<ex>ost</ex>r</expan><abbr>vr<am>̃</am></abbr></choice>e grace</p></body></text></TEI><TEI n="Paris_ENSBA_Masson_80"><text><body><p>   Aussi tost que grace <space rend="petit                                     blanc"/><milestone unit="justification-findeligne" break="yes"/> dieu m'ot dis ses
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> parolles je ne la vis plus<milestone unit="justification-findeligne" break="yes"/>  dont mon cuer n'avoit ta <milestone unit="justification-findeligne" break="yes"/> lent de rire car dolant en
+                                    <milestone unit="justification-findeligne" break="yes"/> estoit . mais aultre chose<milestone unit="justification-findeligne" break="yes"/> n'en pouoit il faire Tou <milestone unit="justification-findeligne" break="yes"/> teffoys ne voulus je pas
+                                    <milestone unit="justification-findeligne" break="yes"/> laissier ma voye comme <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> je l'avoye commancee . <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> mais me prins a la
+                                    po<choice><expan><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice> <milestone unit="justification-findeligne" break="yes"/> suivir aulcunnement .
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Or dis a memoire <space rend="petit                                     blanc"/><milestone unit="justification-findeligne" break="yes"/> qu'elle venist aprés moy <milestone unit="justification-findeligne" break="yes"/> et m'ensuivist Et que to<milestone unit="justification-findeligne" break="no"/>u   tes mes armeures
+                                    appo<milestone unit="justification-findeligne" break="no"/>   tast sans aulcunne en
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> laissier et ainsi le fist .
+                                    Et<milestone unit="justification-findeligne" break="yes"/> aussi ne m'estoit il pas <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> mestier qu'elle en oubli <milestone unit="justification-findeligne" break="yes"/> ast ou perdist riens .
+                                    Car<milestone unit="justification-findeligne" break="yes"/> depuis trouvay tant d'en<milestone unit="justification-findeligne" break="yes"/> combriers que se je ne
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> eusse aulcunneffois esté<milestone unit="justification-findeligne" break="yes"/> garny d'armeures je <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> eusse esté mort . No<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> pas
+                                    <milestone unit="justification-findeligne" break="yes"/> que tousjours les vestiss<milestone unit="justification-findeligne" break="no"/>e  a tous mes besoins Car<milestone unit="justification-findeligne" break="yes"/> maintes fois par ma p<milestone unit="justification-findeligne" break="no"/>a   resse fus je feru de plu
+                                    <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> seurs dars et fleches qu<milestone unit="justification-findeligne" break="no"/>i  ne me eussent point fai<milestone unit="justification-findeligne" break="no"/>t  de mal si je en eusse esté <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> bien armé . <space rend="grand                                     blanc"/><milestone unit="justification-findeligne" break="yes"/>   <gap/> Si<milestone unit="justification-findeligne" break="yes"/> me tournay sur le rivai<milestone unit="justification-findeligne" break="no"/>   ge . pour veoir se je
+                                    pour<milestone unit="justification-findeligne" break="no"/>   roye trouver nef ou ba
+                                    <milestone unit="justification-findeligne" break="yes"/>   teau . en quoy je
+                              peusse pa<milestone unit="justification-findeligne" break="no"/>s   ser oultre sans peril
+                                    Au<milestone unit="justification-findeligne" break="yes"/> chemin me mis sans ta<milestone unit="justification-findeligne" break="no"/>r  der . Mais quant je
+                                    fu<milestone unit="justification-findeligne" break="no"/>s  allé ung peu avant j<milestone unit="justification-findeligne" break="no"/>e  y veis doulces gens sei<milestone unit="justification-findeligne" break="no"/>   gnez vous une si
+                                    laide<milestone unit="justification-findeligne" break="yes"/> beste que qui bien l'aroi<milestone unit="justification-findeligne" break="no"/>t  regardee jamais asseur<milestone unit="justification-findeligne" break="yes"/> ne seroit pour moy le di<milestone unit="justification-findeligne" break="no"/>s  Car j'en ay grant paou<milestone unit="justification-findeligne" break="no"/>r  toutes les foys qu'il m'e<milestone unit="justification-findeligne" break="no"/>n  souvient 
+                              Celle best<milestone unit="justification-findeligne" break="no"/>e  estoit si laidement figu<milestone unit="justification-findeligne" break="no"/>   ree que si longuemen<milestone unit="justification-findeligne" break="no"/>t  j'en parloye j'en aroye
+                                    gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice><milestone unit="justification-findeligne" break="no"/>t  hydeur et grant
+                                    craint<milestone unit="justification-findeligne" break="no"/>e
+                                     Et pource ay je
+                                    ordo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>n<milestone unit="justification-findeligne" break="no"/>é  qu'elle soit cy
+                              devant <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> painte et figuree affin<milestone unit="justification-findeligne" break="yes"/> que qui la vouldra veo<milestone unit="justification-findeligne" break="no"/>ir  so la voye Touteffois ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t   vous en dy que je la veis<milestone unit="justification-findeligne" break="yes"/> en la mer peschier Et<milestone unit="justification-findeligne" break="yes"/> y avoit gecté ses hains<milestone unit="justification-findeligne" break="yes"/> et sa ligne . et ung cor <milestone unit="justification-findeligne" break="yes"/> avoit au col pendu et<milestone unit="justification-findeligne" break="yes"/> sus ses espaules portoit<milestone unit="justification-findeligne" break="yes"/> ung trousseai de las et<milestone unit="justification-findeligne" break="yes"/> cordes Et si avoit tend<milestone unit="justification-findeligne" break="no"/>u  sur la mer au dessus <milestone unit="justification-findeligne" break="yes"/> des nues pluseurs rai<milestone unit="justification-findeligne" break="no"/>s  volans . <gap/></p></body></text></TEI><TEI n="Paris_Arsenal_5071"><text><body><p>   Aussi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me elle ot ce
+                              dit  Plus ne la vit
+                              dont pas n'en rit  Mon cuer qui doulant en estoit  Mais faire plus il n'en pouoit  Toutes voyes aler ma voye  Si comme
+                              <choice><expan>p<ex>ro</ex></expan><abbr><am>ꝓ</am></abbr></choice>posé avoye  Je ne vueil
+                              pas entrelessier   Ains m'y voul des lors avoyer  A memoire dist que venist  Aprés moy et et que me suisist
+                                     Que mes armeures aportast  Et que nulles n'en obliast  Et elle voir ainsi le fyt  Tout aporta riens ne perdyt  Et il en estoit grant mestiers  Quar puis trouvay tant d'encombriers  Que s'aucune fois n'eusse esté  D'armes garny mort eusse esté  Non pas que tousjours les vetisse
+                                     A mes besoings et les preisse
+                                     Quar maintes fois par ma
+                              peresse  Coup de dart ou de saiecte
+                                     Souffri que pas soufert
+                              n'eusse  Se bien
+                              armé esté eusse  Or vous ay dit tout sans messonge
+                                     Une partie
+                              de mon songe  Le
+                              remenant vous conteray  Cy aprés
+                              quant temps en aray  Et vous plus voulentiers l'orrés  Quant un pou reposez
+                              serés  Sans entrevail trestout ennuye
+                                     Et le biaux
+                              temps et cil de pluye  Une autre fois
+                              vous revenrés  Se plus ouir vous en
+                              voulés  Et tandis je m'aviseray  D'a point conter si com songay    A chemin me mis
+                              sans targer <milestone unit="justification-findeligne" break="yes"/> Et co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>mançay a cotoier
+                                    <milestone unit="justification-findeligne" break="yes"/> La mer tout selonc le rivage
+                                    <milestone unit="justification-findeligne" break="yes"/> Mais pas ne fit mo<choice><expan><ex>u</ex></expan><abbr><am>̃</am></abbr></choice>lt grant
+                              voiage <milestone unit="justification-findeligne" break="yes"/> Que vi doulces gens seignés vous,
+                                    <milestone unit="justification-findeligne" break="yes"/> Vne laide beste que tous <milestone unit="justification-findeligne" break="yes"/> Qui bien regardee l'aroient
+                                    <milestone unit="justification-findeligne" break="yes"/> Jamais asseur ne seroient <milestone unit="justification-findeligne" break="yes"/> Pour moy le dy m'ame le cryent
+                                    <milestone unit="justification-findeligne" break="yes"/> Toutes les fois qu'i l'en souvient
+                                    <milestone unit="justification-findeligne" break="yes"/> Ceste beste estoit deguisee
+                                    <milestone unit="justification-findeligne" break="yes"/> Si laidement et
+                              figuree <milestone unit="justification-findeligne" break="yes"/> Que du parler grand hyde aroye
+                                    <milestone unit="justification-findeligne" break="yes"/> Se longuement vous en parloye
+                                    <milestone unit="justification-findeligne" break="yes"/> Ordonnee ay que painturee <milestone unit="justification-findeligne" break="yes"/> Elle soit cy et figuree <milestone unit="justification-findeligne" break="yes"/> Affin qui vouldra eschever la voye
+                                    <milestone unit="justification-findeligne" break="yes"/> Autreme<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              chevir n'en savroye <milestone unit="justification-findeligne" break="yes"/> Toutes voyes tant
+                              vous en dy <milestone unit="justification-findeligne" break="yes"/> Que en la mer
+                              peschier le vy <milestone unit="justification-findeligne" break="yes"/>  Dedans avoit geté ses ains <milestone unit="justification-findeligne" break="yes"/> Et sa langue tenoit aus dens
+                                    <milestone unit="justification-findeligne" break="yes"/> Un cor au col pendu avoit <milestone unit="justification-findeligne" break="yes"/> Et un troussel de las portoit
+                                    <milestone unit="justification-findeligne" break="yes"/> Et roys vollans avoit pendues
+                                    <milestone unit="justification-findeligne" break="yes"/> Sur la mer au dessoubz des nues
+                                    <milestone unit="justification-findeligne" break="yes"/> Quant me vy venir a corner <milestone unit="justification-findeligne" break="yes"/> Commança tantost et iuper <milestone unit="justification-findeligne" break="yes"/> Et tendre en ma voye ses las
+                                    <milestone unit="justification-findeligne" break="yes"/> A ffin que
+                              n'eschappasse pas <milestone unit="justification-findeligne" break="yes"/> Quant ie vy tel aprestement
+                                    <milestone unit="justification-findeligne" break="yes"/> Esbahy fu mo<choice><expan><ex>u</ex></expan><abbr><am>̃</am></abbr></choice>lt grandement
+                                    <milestone unit="justification-findeligne" break="yes"/> Car je vy bien que se passoye
+                                    <milestone unit="justification-findeligne" break="yes"/> Par lui tantost pris ie seroie
+                                    <milestone unit="justification-findeligne" break="yes"/> Doulz dieu que feray ie <milestone unit="justification-findeligne" break="yes"/> Mal chemin truis ou yray ie
+                                    <milestone unit="justification-findeligne" break="yes"/> Jamais n'ystray de
+                              ceste place <milestone unit="justification-findeligne" break="yes"/> Se n'ay secours de
+                              voustre grace <milestone unit="justification-findeligne" break="yes"/></p></body></text></TEI><TEI n="Paris_BnF_fr_1577"><text><body><p>   Aussi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> ot ce dit
+                                    <milestone unit="justification-findeligne" break="yes"/> Plus ne la vi dont
+                              pas ne rit <milestone unit="justification-findeligne" break="yes"/> Mon cuer qui dolent en estoit
+                                    <milestone unit="justification-findeligne" break="yes"/> Mais faire plus il n'en pouoit
+                                    <milestone unit="justification-findeligne" break="yes"/> Toutevoiez aler ma voie <milestone unit="justification-findeligne" break="yes"/> Si co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me <choice><expan>p<ex>ro</ex></expan><abbr><am>ꝓ</am></abbr></choice>posé
+                              l'avoie <milestone unit="justification-findeligne" break="yes"/> Je ne veul pas entrelaissier
+                                    <milestone unit="justification-findeligne" break="yes"/> Ains m'i veul des lors avoier
+                                    <milestone unit="justification-findeligne" break="yes"/> A memoire dis que venist <milestone unit="justification-findeligne" break="yes"/> Aprés moy <choice><expan>et</expan><abbr><am></am></abbr></choice> que me
+                              suist <milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> mes armeures aportast
+                                    <milestone unit="justification-findeligne" break="yes"/> Et que nulle n'en oubliast
+                                    <milestone unit="justification-findeligne" break="yes"/> Elle voir le fist ainsi <milestone unit="justification-findeligne" break="yes"/> Tout aporta rien ne <choice><expan>p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>di
+                                    <milestone unit="justification-findeligne" break="yes"/> Comment l'aucteur met a
+                                          fin son <milestone unit="justification-findeligne" break="yes"/> premier livre exposé
+                                                <milestone unit="justification-findeligne" break="yes"/> Et il en estoit g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt
+                              mestiers <milestone unit="justification-findeligne" break="yes"/> Car puis trouvay
+                                    <milestone unit="justification-findeligne" break="yes"/> tant d'encombriers
+                                    <milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice>
+                              s'aucu<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ne foiz n'euse esté <milestone unit="justification-findeligne" break="yes"/> D'armez garni mort eusse esté
+                                    <milestone unit="justification-findeligne" break="yes"/> Non pas que touz jours
+                              l<choice><expan><ex>es</ex></expan><abbr><am>͛</am></abbr></choice>vestisse <milestone unit="justification-findeligne" break="yes"/> A mez besoings ne les preisse
+                                    <milestone unit="justification-findeligne" break="yes"/> Car maintez foiz <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> ma
+                              <choice><expan>p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>esce <milestone unit="justification-findeligne" break="yes"/> Cops de dart et de saiette
+                                    <milestone unit="justification-findeligne" break="yes"/> Souffri que souffert pas n'eusse
+                                    <milestone unit="justification-findeligne" break="yes"/> Se bien armé esté
+                              eusse <milestone unit="justification-findeligne" break="yes"/> Or vous ai dit tout sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s
+                              me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ço<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ge <milestone unit="justification-findeligne" break="yes"/> Une <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>tie de mon songe
+                                    <milestone unit="justification-findeligne" break="yes"/> Le remenant vous
+                              conteray <milestone unit="justification-findeligne" break="yes"/> Ci aprés q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt temps
+                              e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> aray <milestone unit="justification-findeligne" break="yes"/> <choice><expan>et</expan><abbr><am></am></abbr></choice> vous plus
+                              volentiers l'orrés <milestone unit="justification-findeligne" break="yes"/>  Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt un po reposés serés
+                                    <milestone unit="justification-findeligne" break="yes"/> Sans entreval trestout e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>nuie
+                                    <milestone unit="justification-findeligne" break="yes"/> Et le biau temps <choice><expan>et</expan><abbr><am></am></abbr></choice>
+                              cil de pluie <milestone unit="justification-findeligne" break="yes"/> Une autre fois vous
+                              revenrez <milestone unit="justification-findeligne" break="yes"/> Se plus ouir vous
+                              e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> voulez <milestone unit="justification-findeligne" break="yes"/> <choice><expan>et</expan><abbr><am></am></abbr></choice> tandis je
+                              m'aviseray <milestone unit="justification-findeligne" break="yes"/> D'a point <choice><expan>con</expan><abbr><am>ꝯ</am></abbr></choice>ter si
+                              <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice> songay <milestone unit="justification-findeligne" break="yes"/>  <gap/> <gap/> A chemi<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> me mis sans
+                              targ<choice><expan><ex>ier</ex></expan><abbr><am>͛</am></abbr></choice><milestone unit="justification-findeligne" break="yes"/> Et <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>mençai a costoier
+                                    <milestone unit="justification-findeligne" break="yes"/> La mer tout selonc le rivage
+                                    <milestone unit="justification-findeligne" break="yes"/> Mais pas ne fis <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice>
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>n voiage <milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> vi douce gens seigniez
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice>, <milestone unit="justification-findeligne" break="yes"/> Vne laide beste que touz <milestone unit="justification-findeligne" break="yes"/> Q<choice><expan><ex>u</ex>i</expan><abbr><am>ͥ</am></abbr></choice><choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice>
+                              regardé l'aroient <milestone unit="justification-findeligne" break="yes"/> Jamais asseur ne
+                              seroie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t <milestone unit="justification-findeligne" break="yes"/> Pour moy le di m'ame le
+                              crie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t <milestone unit="justification-findeligne" break="yes"/> Toutez les foiz qu'il l'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>
+                              souvie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t <milestone unit="justification-findeligne" break="yes"/> Celle beste estoit desguisee
+                                    <milestone unit="justification-findeligne" break="yes"/> Si laidement <choice><expan>et</expan><abbr><am></am></abbr></choice>
+                              figuree <milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> du <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>ler
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt hisde aroie <milestone unit="justification-findeligne" break="yes"/> Se longuement vous e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice><choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>loie <milestone unit="justification-findeligne" break="yes"/> Ordené ai que painturee <milestone unit="justification-findeligne" break="yes"/> Elle soit ici <choice><expan>et</expan><abbr><am></am></abbr></choice>
+                              figuree <milestone unit="justification-findeligne" break="yes"/> Afin <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> qui voudra la
+                              voie <milestone unit="justification-findeligne" break="yes"/> Autreme<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t chevir
+                              n'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> saroie <milestone unit="justification-findeligne" break="yes"/> Comment
+                                          l'auteur vit la vieille <milestone unit="justification-findeligne" break="yes"/> qui le
+                                          cor avoit au col et les laz <milestone unit="justification-findeligne" break="yes"/> Toutevoiez ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice>
+                              en di <milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice>
+                              e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> la mer pesch<choice><expan><ex>ier</ex></expan><abbr><am>͛</am></abbr></choice> je vi <milestone unit="justification-findeligne" break="yes"/>   Dedans avoit geté ses ains <milestone unit="justification-findeligne" break="yes"/> Et la ligne tenoit aus mains
+                                    <milestone unit="justification-findeligne" break="yes"/> I cor au col pendu avoit <milestone unit="justification-findeligne" break="yes"/> Et i troussel de las portoit
+                                    <milestone unit="justification-findeligne" break="yes"/> <choice><expan>et</expan><abbr><am></am></abbr></choice>
+                              rois volans avoit tendues <milestone unit="justification-findeligne" break="yes"/> Sur la m<choice><expan><ex>er</ex></expan><abbr><am>͛</am></abbr></choice> au dessouz
+                              des nues <milestone unit="justification-findeligne" break="yes"/> Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt venir me vit a
+                              corner <milestone unit="justification-findeligne" break="yes"/> <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>mença tantost
+                              <choice><expan>et</expan><abbr><am></am></abbr></choice> iuper <milestone unit="justification-findeligne" break="yes"/> A tendre e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> ma voie ses las
+                                    <milestone unit="justification-findeligne" break="yes"/> A fin <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice>n'espasse pas <milestone unit="justification-findeligne" break="yes"/> Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt ie vi tel
+                              aprestement <milestone unit="justification-findeligne" break="yes"/> Esbahi fu <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice>
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>ndement <milestone unit="justification-findeligne" break="yes"/> Car je vi <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice> que se
+                              passoie <milestone unit="justification-findeligne" break="yes"/> <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> li tantost pris ie
+                              seroie <milestone unit="justification-findeligne" break="yes"/> Douz dieu dis ie <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> ferai
+                              ie <milestone unit="justification-findeligne" break="yes"/> Mal chemin truis ou irai ie
+                                    <milestone unit="justification-findeligne" break="yes"/> Jamais n'istrai de ceste place
+                                    <milestone unit="justification-findeligne" break="yes"/> Se n'ai secours de <choice><expan>v<ex>ost</ex>r</expan><abbr>vr<am>̃</am></abbr></choice>e
+                              grace <milestone unit="justification-findeligne" break="yes"/><gap/> <gap/></p></body></text></TEI><TEI n="Paris_BnF_fr_12462"><text><body><p>  <gap/> <gap/> Aussi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> elle ot ce dit
+                                    <milestone unit="justification-findeligne" break="yes"/> Pl<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> ne
+                              la vi do<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t pas ne rit <milestone unit="justification-findeligne" break="yes"/> Mon cuer q<choice><expan><ex>u</ex>i</expan><abbr><am>ͥ</am></abbr></choice> dolent en
+                              estoit <milestone unit="justification-findeligne" break="yes"/> Mais faire pl<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> il
+                              n'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> pouoit <milestone unit="justification-findeligne" break="yes"/> Toutevoies aller ma voie <milestone unit="justification-findeligne" break="yes"/> Si <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>me
+                              <choice><expan>p<ex>ro</ex></expan><abbr><am>ꝓ</am></abbr></choice>posé l'avoie <milestone unit="justification-findeligne" break="yes"/> Je ne veul pas
+                              entrelaissier <milestone unit="justification-findeligne" break="yes"/> Ainz m'i voul des lors avoier
+                                    <milestone unit="justification-findeligne" break="yes"/> A memoire dist <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> venist
+                                    <milestone unit="justification-findeligne" break="yes"/> Aprés moi <choice><expan>et</expan><abbr><am></am></abbr></choice><choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> me suist <milestone unit="justification-findeligne" break="yes"/> <choice><expan>et</expan><abbr><am></am></abbr></choice><choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice>
+                              mes armeures aportast <milestone unit="justification-findeligne" break="yes"/> <choice><expan>et</expan><abbr><am></am></abbr></choice><choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice>
+                              nule n'en oubliast <milestone unit="justification-findeligne" break="yes"/> <choice><expan>et</expan><abbr><am></am></abbr></choice> elle voir le
+                              fist ainssi <milestone unit="justification-findeligne" break="yes"/> Tout aporta riens ne <choice><expan>p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>di
+                                    <milestone unit="justification-findeligne" break="yes"/> Comment l'aucteur met a
+                                          fin <milestone unit="justification-findeligne" break="yes"/> son
+                                          premier livre exposé <milestone unit="justification-findeligne" break="yes"/> Se il en estoit g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt
+                              mestiers <milestone unit="justification-findeligne" break="yes"/> Car
+                              p<choice><expan><ex>uis</ex></expan><abbr><am>᷒</am></abbr></choice> trouvai ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t d'en<choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>briers
+                                    <milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> s'aucune fois n'eusse
+                              esté <milestone unit="justification-findeligne" break="yes"/> D'armes garni mort eusse esté
+                                    <milestone unit="justification-findeligne" break="yes"/>   Non pas <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice>
+                              to<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice>jourz les vestisse <milestone unit="justification-findeligne" break="yes"/> A mes besoins ne ne
+                              p<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>isse <milestone unit="justification-findeligne" break="yes"/> <choice><expan>q<ex>u</ex>a<ex>r</ex></expan><abbr>q<am>ͣ</am></abbr></choice> mai<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tes
+                              foiz <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> ma peresse <milestone unit="justification-findeligne" break="yes"/> Cops de dart <choice><expan>et</expan><abbr><am></am></abbr></choice> de
+                              saiete <milestone unit="justification-findeligne" break="yes"/> Souffri <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> souffert pas
+                              n'eusse <milestone unit="justification-findeligne" break="yes"/> Se <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice>
+                              armé esté eusse <milestone unit="justification-findeligne" break="yes"/> Or vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> ai dit tout
+                              sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>z me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ço<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ge<milestone unit="justification-findeligne" break="yes"/> Une
+                              <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>tie de mo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> songe <milestone unit="justification-findeligne" break="yes"/> Le remanant vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice><choice><expan>con</expan><abbr><am>ꝯ</am></abbr></choice>terai <milestone unit="justification-findeligne" break="yes"/> Ci ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>s
+                              q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt temps en arai <milestone unit="justification-findeligne" break="yes"/> <choice><expan>et</expan><abbr><am></am></abbr></choice> vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice>
+                              pl<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> volentiers l'orrois <milestone unit="justification-findeligne" break="yes"/> Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt un poi reposez
+                              serois <milestone unit="justification-findeligne" break="yes"/> Sanz entreval trestout annuie
+                                    <milestone unit="justification-findeligne" break="yes"/> <choice><expan>et</expan><abbr><am></am></abbr></choice> le biau temps
+                              <choice><expan>et</expan><abbr><am></am></abbr></choice> cil de pluie <milestone unit="justification-findeligne" break="yes"/> Une autre foiz
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> revenrez <milestone unit="justification-findeligne" break="yes"/> Se plus oïr
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> en voulez <milestone unit="justification-findeligne" break="yes"/> <choice><expan>et</expan><abbr><am></am></abbr></choice> tandis je
+                              m'aviserai <milestone unit="justification-findeligne" break="yes"/> D'a poi<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t <choice><expan>con</expan><abbr><am>ꝯ</am></abbr></choice>ter
+                              si <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice> songai <milestone unit="justification-findeligne" break="yes"/><gap/> <gap/>  <gap/> <gap/> A chemin me mis sa<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>z targier
+                                     <choice><expan>et</expan><abbr><am></am></abbr></choice><choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>mençai a costoier  La
+                              mer tout selonc le rivage  Mais pas ne fis
+                              <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice> g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt voiage  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> vi douce gens seignez
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice>,  Vne laide beste
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> tous  Q<choice><expan><ex>u</ex>i</expan><abbr><am>ͥ</am></abbr></choice><choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice> regardee l'aroient  Jamais aseur ne
+                              seroie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t  P<choice><expan><ex>our</ex></expan><abbr><am>᷑</am></abbr></choice> moi
+                              le di m'ame le crient  Toutes les
+                              fois q<choice><expan><ex>u'</ex>i</expan><abbr><am>ͥ</am></abbr></choice>l l'en sovie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t  Celle beste estoit desguisee  Si laidem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t <choice><expan>et</expan><abbr><am></am></abbr></choice>
+                              figuree  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> du <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>ler g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt hysde aroie  Se
+                              longuem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> en <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>loie  Ordené ai que painturee  Elle soit ici <choice><expan>et</expan><abbr><am></am></abbr></choice> figuree
+                                     Afin que qui voudra la voie
+                                     Autrem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t chevir
+                              n'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> saroie    Comment l'aucteur vit la
+                                          vielle qui le  cor avoit
+                                          au col et les laz Toutevoies tant vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> en di  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> en
+                              la mer peschier le vi  Dedenz avoit geté sez
+                              ainz  <choice><expan>et</expan><abbr><am></am></abbr></choice> la ligne tenoit aus mains  Un cor au col pendu
+                              avoit  <choice><expan>et</expan><abbr><am></am></abbr></choice> un troussel
+                              de laz portoit  <choice><expan>et</expan><abbr><am></am></abbr></choice> roys volans avoit te<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>dues  Sur la mer au dessouz des nues  Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt venir me vit a corner
+                                     <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>mença tantost <choice><expan>et</expan><abbr><am></am></abbr></choice> iuper  A tendre en ma voie ses laz  A fin que n'eschapasse pas  Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt ie vi tel
+                              aprestem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t  Esbahy fu
+                              <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice> grandem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t  Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>r je voi <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice><choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> se passoie  <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> li tantost pris ie
+                              seroie  Douz diex dis ie
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> ferai ie  Mal chemin
+                              truis ou irai ie  Jamais n'istrai de ceste place  Se n'ai secours de
+                              <choice><expan>v<ex>ost</ex>r</expan><abbr>vr<am>̃</am></abbr></choice>e grace <gap/> <gap/></p></body></text></TEI><TEI n="Paris_BnF_NAF_10551"><text><body><p>  <gap/> <gap/> ussi tost <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>me elle ot ce dit <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> <space rend="blanc"/>Plus ne la vi dont pas ne rist <milestone unit="justification-findeligne" break="yes"/> Mon cuer qui
+                              dolent en estoit <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Mais faire
+                              plus il n'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> pooit <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Toutes voies
+                              aler ma voie <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Si
+                              <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>me <choice><expan>p<ex>ro</ex></expan><abbr><am>ꝓ</am></abbr></choice>posé avoie <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Je ne weull pas
+                              entrelaissier <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Ains m'i
+                              weull des lors avoier <milestone unit="justification-findeligne" break="yes"/> A memoire
+                              dis que venist <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Aprés moi
+                              <choice><expan>et</expan><abbr><am></am></abbr></choice> que me suiist <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> mes
+                              armeures aportast <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et que nulles n'en
+                              oubliast <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Elle voir le fist
+                              ainsi <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Tout aporta riens
+                              ne <choice><expan>p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>di <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> <choice><expan>et</expan><abbr><am></am></abbr></choice> il en estoit grans mestiers <space rend="petit                                     blanc"/><milestone unit="justification-findeligne" break="yes"/> Car puis trouvay
+                              maint d'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice><choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice>brie<milestone unit="justification-findeligne" break="no"/>rs  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice> s'aucune
+                              fois n'eusse esté <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> D'armes garni mort
+                              eusse esté <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Non pas que tous
+                              jours les vestiss<milestone unit="justification-findeligne" break="no"/>e  A mes
+                              besoins ne les preisse <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/>   Car maintes
+                              fois <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> ma preeche <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Cop de dart ne
+                              de saiete <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Souffri . que
+                              soufert pas n'eusse <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Se bien armé
+                              esté eusse <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Or vous ai dit tout
+                              sans me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>choi<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice><milestone unit="justification-findeligne" break="no"/>gne  Une partie de mon
+                              songe <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Le remenant
+                              vous conterai <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Ci aprés
+                              q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt temps en arai <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> <choice><expan>et</expan><abbr><am></am></abbr></choice> plus volentiers l'orrés <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt I poi repose serez <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Sans entreval
+                              trestout ennuie <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Et le biau
+                              tamps <choice><expan>et</expan><abbr><am></am></abbr></choice> cil de pluie <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Une autre fois
+                              vous revenrés <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Se plus ouir
+                              vous en volés <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> <choice><expan>et</expan><abbr><am></am></abbr></choice> tant dis je m'aviserai <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> D'a point
+                              comter si <choice><expan>com</expan><abbr><am>ꝯ</am></abbr></choice> songai . <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/><gap/>    A chemın me mıs
+                              sans targ<choice><expan><ex>er</ex></expan><abbr><am>͛</am></abbr></choice><space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Et co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>menchaı a coistaıer
+                                    <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/>  La mer tout selonc le rıvage  Mes pas ne fıs mo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt voıage  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice>
+                              vı douce ge<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t segnies vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> Vne laıde beste <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> tous  Qui <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice> regardee
+                              l'aroıent  Jamaıs asseur ne
+                              seroıe<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t  Pour moı le dı m'ame
+                              le crıe<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t  Toutes les foıs
+                              qu'ıl e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> souvıe<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t  Celle beste estoit desguısee  Sı
+                              laidement et fıguree  <choice><expan>Q<ex>ue</ex></expan><abbr>Q<am>̃</am></abbr></choice>
+                              du parler g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt hıde aroıe  Se longuement vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice><choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>loıe  Ordo<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ne aı
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> paınturee  Elle soıt cı
+                              et fıguree  Afin que quı vouldra la
+                              voıe  Autrement clevir n'en saroıe
+                                    <space rend="8UR"/> Toutes voıes ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> en dı  Que en la mer
+                              pesch<choice><expan><ex>ie</ex></expan><abbr><am>̃</am></abbr></choice>r le vı  Dedens avoıt
+                              geté ses aıns  Et la lıgne tenoıt as
+                              maıns  Un cor au col pendu avoıt  Et un troussel de las portoıt  Et roıs volans avoıt
+                              te<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>dues  Sus la mer au
+                              dessous des nues  Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt
+                              me vıt venır a corner  Co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>mencha ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tost <choice><expan>et</expan><abbr><am></am></abbr></choice> ıuper  A te<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>dre en ma voıe ses
+                              las  A fın <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> n'escapasse
+                              pas  Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt ıe vı tel
+                              apresteme<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t  Esbahı fu
+                              <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice> g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>ndeme<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t  Car ie vı
+                              <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice><choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> se passoıe  Par luı ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tost prıs ıe seroıe
+                                     Douz dıex dıs ıe que feraı ıe
+                                       Mal chemın truıs ou ıraı <milestone unit="justification-findeligne" break="yes"/> ıe  Jamaıs n'ıstraı de
+                              ceste pl<milestone unit="justification-findeligne" break="no"/>ace  Se n'aı secours de vostre
+                              g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>ce <gap/> <gap/></p></body></text></TEI><TEI n="Vaticano_BAV_Reg_lat_1668"><text><body><p>   Ainssi tost co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me elle ot ce dit
+                                    <milestone unit="justification-findeligne" break="yes"/> Plus ne la vi
+                              dont pas ne rist  Mon cuer qui dolent en estoit  Mais plus en faire
+                              il ne pouoit  Toutes fois a aler ma voie  Si co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me
+                              proposé l'avoie  Je ne vouls pas entrelaissier  Ains m'y vouls des
+                              lors avoier  A
+                              memoire dis que venist  Aprés moi et que me
+                              suisist  Que mes
+                              armeures m'apportast  Et que nulle n'en
+                              oubliast  Et
+                              elle voir le fist ainssi  Tout aporta riens
+                              n'en perdi  Et
+                              il en estoit bien mestiers  Car puis trouvai
+                              tant d'enco<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>briers  Que se a la fois
+                              n'eusse esté  Armés, mal me fust encontré  Non pas que tous
+                              jours les vestisse  A mes besoings ne
+                              les prinsse  Car
+                              maintes fois par ma peresse  Coup d'anemi qui
+                              mort et blessé  Souffri que souffert pas n'eusse  Se bien armé esté
+                              eusse  Or vous
+                              ay dit tout sans mençonge  Une partie de mon
+                              songe  Le
+                              remenant vous compteray  Cy aprés qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              temps en avray  Et vous plus voulentiers l'orrés  Qua<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t ung
+                              pou reposés serés  Sanz
+                              ent<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>val t<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>stout en vuie Et li beaux
+                              temps et celui de pluie  Une autre fois vous
+                              revenrés  Se
+                              plus ouir vous en voulés  Et tandis jou
+                              m'aviseray  D'a
+                              point conter ce que songay <milestone unit="justification-findeligne" break="yes"/><gap/> <gap/>   A chemin me
+                              mis sans targer <milestone unit="justification-findeligne" break="yes"/> Et
+                              co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>çay a costoier  La mer tout selonc
+                              le rivage  Mais
+                              pas ne fis <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice> grant voiage  Que vi douces gens
+                              saigniés vous  Vne laide beste que tous  Qui bien regardé
+                              l'aroie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t  Jamés asseurs ne seroie<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t  Pour moy le di m'ame le
+                              crient  Toutes les
+                              fois que l'en souvient  Celle beste estoit
+                              desfiguree  Si
+                              laidement <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> figuree  Que du
+                              <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>ler gra<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t hide aroie  Se
+                              longuem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t vous en <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>loie  Ordenay ay que
+                              pourtraiee  Elle
+                              soit ci <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> figuree   Aultrem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t
+                              qui voudra la voie  Aultrem<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>t chevir n'en saroie  Toutes voies tant vous
+                              en di  Que en la mer
+                              peschier le vi  Dedens avoit jecté ses ains  Et la ligne tenoit aux
+                              mains  .I. cor au col
+                              pendu avoit  Et .I.
+                              trousse de las portoit  Et rois volans avoit
+                              tendues  Sus la mer
+                              au dessoubs des nues  Q<choice><expan><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt venir me vit a corner  Conma<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ça tantost
+                              <choice><expan>et</expan><abbr><am>⁊</am></abbr></choice> iupper  A tendre en ma voie ses las  Affin que n'eschapasse
+                              pas  Quant ie vi tel
+                              ap<choice><expan><ex>re</ex></expan><abbr><am>͛</am></abbr></choice>stement  Esbahis fu
+                              <choice><expan>m<ex>ou</ex>lt</expan><abbr>ml<am>̃</am>t</abbr></choice> grandement  Quar je vi bien se
+                              passoie  Je vi
+                              tantost pris ie seroie  Douls vrais dieux dis ie
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> feray  Mal chemin truis quel part iray  Jamés n'istray de ceste
+                              place  Se n'ay
+                              secours de vostre grace</p></body></text></TEI><TEI n="New-Haven_YUL_Beinecke_406"><text><body><p>   Auci tost com elle ot ce dit <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Plus ne la vi dont
+                              pas ne<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> rit<milestone unit="justification-findeligne" break="yes"/> Mon cuer qui
+                              dolent en estoit <milestone unit="justification-findeligne" break="yes"/> Mais faire
+                              plus il n'e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> pouoit <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Toutes voies
+                              aler ma voie <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Si
+                              co<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>me <choice><expan>p<ex>ro</ex></expan><abbr><am>ꝓ</am></abbr></choice>posé l'avoie <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Je ne veul
+                              pas entrelessier <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Ains m'i voul
+                              des lors avoier <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> A memoire dis
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> venist <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Aprés moy et
+                              me suist <space rend="blanc"/><milestone unit="justification-findeligne" break="yes"/> Que mes
+                              armeures aportast<milestone unit="justification-findeligne" break="yes"/> Et que nulle n'en
+                              oubliast <space rend="petit blanc"/><milestone unit="justification-findeligne" break="yes"/> Elle voir le
+                              fist ainsi <space rend="grand blanc"/><milestone unit="justification-findeligne" break="yes"/> Tout aporta rien
+                              n'i <choice><expan>p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>di  Et il en estoit g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt mest<choice><expan><ex>ier</ex></expan><abbr><am>͛</am></abbr></choice>s  Quar puis trouvai
+                              ta<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t d'enco<choice><expan><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>b<choice><expan><ex>rier</ex></expan><abbr><am>͛</am></abbr></choice>s  Que s'aucune fois
+                              n'eusse esté  D'armes garni on m'eust tué   Non pas
+                              <choice><expan>q<ex>ue</ex></expan><abbr>q<am>̃</am></abbr></choice> tousjours les vestisse  A mes besoings ne
+                              ne preisse  Quar
+                              maintes fois <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice> ma peresse  <add place="superscript">g<choice><expan><ex>r</ex>a</expan><abbr><am>ͣ</am></abbr></choice>nt</add> Cops de dars et de
+                              saete  Soufri que pas souffert n'eusse  Se <choice><expan>b<ex>ie</ex>n</expan><abbr>bn<am>̃</am></abbr></choice>
+                              armé esté eusse  Or vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> ai dit tout sans
+                              m<choice><expan><ex>en</ex></expan><abbr><am>̃</am></abbr></choice>ço<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ge  Une <choice><expan>p<ex>ar</ex></expan><abbr><am>ꝑ</am></abbr></choice>tie de
+                              mon songe  Le
+                              remenant vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> co<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>terai  Ci aprés quant
+                              temps e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> arai  Et vous plus
+                              volent<choice><expan><ex>ier</ex></expan><abbr><am>͛</am></abbr></choice>s l'orrez  Quant .i. pou
+                              reposez seres  Sans entreval trestout e<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>nuie  Et le biaux temps
+                              et cil de pluie  Une autre fois
+                              vous revenrés  Se plus ouir vo<choice><expan><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> en voules  Et tandis je
+                              m'aviserai  D'a point co<choice><expan><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>ter si com songay </p></body></text></TEI></teiCorpus>
