@@ -60,7 +60,7 @@
     
     <!-- Normalisations -->
     <xsl:template match="text()">
-        <xsl:value-of select='translate(lower-case(normalize-unicode(translate(., "δꝛſ", "drs"), "nfkd")),
+        <xsl:value-of select='translate(normalize-unicode(translate(., "δꝛſ", "drs"), "nfkd"),
             "’",
             "&apos;"
             )'/>

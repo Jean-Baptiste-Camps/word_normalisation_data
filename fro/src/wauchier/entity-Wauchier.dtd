@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!ENTITY esp '<pc type="reg" ana="space">&#160;</pc>'>
 <!ENTITY nospace '<pc type="orig" ana="space">&#160;</pc>'>
-<!ENTITY esperluette-et '<choice><abbr>&#61784;</abbr><expan>et&#160;</expan></choice>'>
+<!ENTITY esperluette-et '<choice><abbr>&#61784;</abbr><expan>et</expan></choice>'>
 <!ENTITY apostrophe  '<choice><abbr>&apos;</abbr><expan>ier</expan></choice>'>
 <!ENTITY c-ced  '<choice><orig>c</orig><reg>ç</reg></choice>'>
 <!ENTITY neuf-com '<choice><abbr>&#42863;</abbr><expan>com</expan></choice>'>
