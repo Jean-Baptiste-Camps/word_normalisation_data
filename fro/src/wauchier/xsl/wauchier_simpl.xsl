@@ -14,4 +14,8 @@
     
     <xsl:template match="tei:lb"/>
     
+    <xsl:template match="tei:lg | tei:l">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
 </xsl:stylesheet>

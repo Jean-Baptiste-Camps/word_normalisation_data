@@ -31,9 +31,10 @@
     
     <xsl:template match="tei:date | tei:persName | tei:placeName | tei:orgName |
         tei:addName | tei:roleName | tei:geogName | tei:name | tei:surname |
-        tei:hi | tei:soCalled |
+        tei:rs |
+        tei:hi | tei:soCalled | tei:said |
         tei:quote | tei:title | tei:num | tei:foreign | tei:q | tei:damage
-        | tei:surplus | tei:g | tei:said
+        | tei:surplus | tei:g 
         ">
         <xsl:apply-templates/>
     </xsl:template>
